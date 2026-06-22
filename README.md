@@ -2,8 +2,6 @@
 
 A cleaned and enriched dataset of Philippine mountains and peaks for geospatial analysis, data visualization, and outdoor exploration.
 
-This project combines mountain data from multiple public sources, standardizes mountain names and coordinates, assigns administrative regions/provinces, and enriches selected records with elevation and prominence details.
-
 ---
 
 ## Project Overview
