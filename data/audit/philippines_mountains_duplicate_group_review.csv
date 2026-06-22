@@ -1,0 +1,74 @@
+dedup_group_id,name_clean,group_size,kept_mountain_id,kept_name,rows_dropped,max_distance_within_group_km,kept_score
+dedup_00001,agamomata,2,agamomata_18.1548_120.9678,Mount Agamomata,1,,190.9
+dedup_00002,agtuuganon,2,agtuuganon_7.7978_126.2035,Mount Agtuuganon,1,,240.2
+dedup_00003,agudo,2,agudo_14.8917_120.1098,Mount Agudo,1,,189.7
+dedup_00004,agudo,2,agudo_9.6_125.45,Mount Agudo,1,,189.2
+dedup_00005,agudo,2,agudo_11.386_123.0036,Mount Agudo,1,,189.2
+dedup_00006,bagsak,2,bagsak_5.8893_125.568,Mount Bagsak,1,,190.9
+dedup_00007,bagsak,2,bagsak_6.0281_121.1394,Mount Bagsak,1,,190.9
+dedup_00008,balabac,2,balabac_11.6013_122.1473,Mount Balabac,1,,190.9
+dedup_00009,bantay lakay,2,bantay lakay_16.4207_121.4112,Mount Bantay Lakay,1,,201.4
+dedup_00010,bener,2,bener_18.1464_120.9611,Mount Bener,1,,192.2
+dedup_00011,binmaca,2,binmaca_16.68_120.6014,Mount Binmaca,1,,240.1
+dedup_00012,burnay,2,burnay_17.943_120.9216,Mount Burnay,1,,251.9
+dedup_00013,camingingel,2,camingingel_17.1829_120.8713,Mount Camingingel,1,,251.9
+dedup_00014,casiama,2,casiama_18.1432_120.9489,Mount Casiama,1,,140.4
+dedup_00015,catmon,3,catmon_10.3617_125.1431,Mount Catmon,2,,265.4
+dedup_00016,catmon,3,catmon_11.3593_124.3792,Mount Catmon,2,,219.9
+dedup_00017,conical peak,2,conical peak_12.3907_123.4803,Conical Peak,1,,240.2
+dedup_00018,conical peak,2,conical peak_13.85_124.15,Conical Peak,1,,240.1
+dedup_00019,conico,2,conico_12.3348_122.6205,Mount Conico,1,,240.2
+dedup_00020,conico,2,conico_9.853_125.606,Mount Conico,1,,195.2
+dedup_00021,dagot,2,dagot_17.8431_120.7019,Mount Dagot,1,,240.2
+dedup_00022,double peak,2,double peak_9.5779_125.5478,Double Peak,1,,195.2
+dedup_00023,double peak,2,double peak_8.7233_117.4247,Double Peak,1,,240.2
+dedup_00024,double peak,2,double peak_10.5667_119.6167,Double Peak,1,,94.6
+dedup_00025,escarpado peak,2,escarpado peak_10.1178_119.1558,Escarpado Peak,1,,240.2
+dedup_00026,escarpado peak,2,escarpado peak_8.6041_117.3709,Escarpado Peak,1,,195.2
+dedup_00027,hingatungan,2,hingatungan_10.5868_125.1158,Mount Hingatungan,1,,240.2
+dedup_00028,kilang,2,kilang_18.1091_120.9358,Mount Kilang,1,,140.4
+dedup_00029,knob peak,2,knob peak_19.557_121.9781,Knob Peak,1,,242.7
+dedup_00030,labo,6,labo_14.0132_122.7877,Mount Labo,5,,265.4
+dedup_00031,lobo,4,lobo_16.7694_120.6842,Mount Lobo,3,,251.8
+dedup_00032,lunas,3,lunas_10.2543_124.9152,Mount Lunas,2,,240.2
+dedup_00033,lunas,3,lunas_12.2912_122.0354,Mount Lunas,2,,240.2
+dedup_00034,lungod,2,lungod_17.6494_121.1856,Mount Lungod,1,,240.2
+dedup_00035,mangabon,2,mangabon_8.5993_125.0979,Mount Mangabon,1,,251.9
+dedup_00036,maranat,2,maranat_7.7756_124.5592,Mount Maranat,1,,190.9
+dedup_00037,maranat,2,maranat_14.8556_121.2021,Mount Maranat,1,,190.9
+dedup_00038,matanal,2,matanal_6.6172_122.3014,Mount Matanal,1,,265.4
+dedup_00039,negron,2,negron_15.0929_120.3681,Mount Negron,1,,240.2
+dedup_00040,oten,2,oten_16.7471_120.6209,Mount Oten,1,,140.4
+dedup_00041,pamalihi,2,pamalihi_8.6275_125.0609,Mount Pamalihi,1,,214.4
+dedup_00042,pao,2,pao_16.4403_120.8165,Mount Pao,1,,251.9
+dedup_00043,pao,2,pao_18.4123_120.874,Mount Pao,1,,251.9
+dedup_00044,pico de loro,6,pico de loro_18.5139_120.8868,Mount Pico de Loro,5,,251.9
+dedup_00045,pico de loro,6,pico de loro_14.2141_120.6463,Mount Pico de Loro,5,,240.2
+dedup_00046,piglagahan,2,piglagahan_8.8539_125.2278,Mount Piglagahan,1,,240.2
+dedup_00047,pina,2,pina_11.2241_124.6221,Mount Pina,1,,190.9
+dedup_00048,pulag,3,pulag_16.5977_120.8988,Mount Pulag,2,,231.9
+dedup_00049,quimalogong,2,quimalogong_15.15_120.1453,Mount Quimalogong,1,,190.9
+dedup_00050,redondo,2,redondo_10.3517_125.6431,Mount Redondo,1,,240.2
+dedup_00051,redondo,2,redondo_14.8369_120.1849,Mount Redondo,1,,240.2
+dedup_00052,saddle peak,4,saddle peak_5.7258_125.3811,Saddle Peak,3,,240.2
+dedup_00053,saddle peak,4,saddle peak_13.7708_123.66,Saddle Peak,3,,240.2
+dedup_00054,sembrano,2,sembrano_14.3851_121.3659,Mount Sembrano,1,,240.2
+dedup_00055,sharp peak,11,sharp peak_8.9143_117.6638,Sharp Peak,10,,240.2
+dedup_00056,sharp peak,11,sharp peak_7.4833_124.1833,Sharp Peak,10,,139.5
+dedup_00057,sharp peak,11,sharp peak_13.6333_124.15,Sharp Peak,10,,240.1
+dedup_00058,sharp peak,11,sharp peak_7.9042_116.9839,Sharp Peak,10,,94.6
+dedup_00059,sharp peak,11,sharp peak_11.1891_125.2291,Sharp Peak,10,,139.5
+dedup_00060,sharp peak,11,sharp peak_5.9667_125.5167,Sharp Peak,10,,139.5
+dedup_00061,sharp peak,11,sharp peak_10.0667_119.1333,Sharp Peak,10,,139.5
+dedup_00062,sharp peak,11,sharp peak_7.4361_122.2542,Sharp Peak,10,,139.5
+dedup_00063,sibulan,2,sibulan_5.7639_125.4939,Mount Sibulan,1,,190.4
+dedup_00064,sicapoo,2,sicapoo_18.0126_120.9381,Mount Sicapoo,1,,277.1
+dedup_00065,silangan,2,silangan_6.2923_125.6208,Mount Silangan,1,,190.9
+dedup_00066,silangan,2,silangan_5.9333_120.9833,Mount Silangan,1,,190.4
+dedup_00067,south tetas de santa,2,south tetas de santa_17.525_120.4635,Mount South Tetas de Santa,1,,189.2
+dedup_00068,thumb peak,2,thumb peak_9.7923_118.6034,Thumb Peak,1,,240.2
+dedup_00069,thumb peak,2,thumb peak_17.5_122.1333,Thumb Peak,1,,194.7
+dedup_00070,tinayunga,2,tinayunga_11.8242_121.9929,Mount Tinayunga,1,,240.2
+dedup_00071,triple peak,4,triple peak_12.4061_122.0675,Triple Peak,3,,240.2
+dedup_00072,triple peak,4,triple peak_13.719_123.8075,Triple Peak,3,,240.2
+dedup_00073,yaua,2,yaua_12.1489_125.0263,Mount Yaua,1,,190.9
