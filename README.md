@@ -136,7 +136,7 @@ Because mountain data can vary across sources, this project keeps source trackin
 - PeakVisor: https://peakvisor.com/
 - phl-mountains: https://github.com/j4ckofalltrades/phl-mountains
 - Philippines JSON Maps: https://github.com/faeldon/philippines-json-maps
-
+- Philippine Standard Geographic Code: https://psa.gov.ph/classification/psgc
 
 ## License
 
