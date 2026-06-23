@@ -1,0 +1,1001 @@
+name,latitude,longitude,country,region,elevation_m,population,feature_type,geoname_id
+Mount Apo,6.98781,125.27109,Philippines,Soccsksargen,2954,0,mountain,1730340
+Mount Katanglad,8.11833,124.92222,Philippines,Northern Mindanao,2938,0,mountain,1709118
+Mount Pulog,16.59778,120.89914,Philippines,Cordillera,2934,0,mountain,1692545
+Mount Ragang,7.70986,124.53466,Philippines,Autonomous Region in Muslim Mindanao,2815,0,mountain,1691947
+Mount Piapayungan,7.69043,124.50671,Philippines,Soccsksargen,2815,0,mountain,1693990
+Mount Ma-agnaw,8.1225,124.87694,Philippines,Northern Mindanao,2742,0,mountain,6569733
+Mount Clawit,16.9609,120.9706,Philippines,Cordillera,2713,0,mountain,1717344
+Mount Mongawto,16.65418,120.78664,Philippines,Cordillera,2710,0,mountain,7427112
+Mount Kapiligan,16.8453,120.9411,Philippines,Cordillera,2709,0,mountain,1709236
+Mount Amuyan,17.01185,121.12934,Philippines,Cordillera,2701,0,mountain,1730944
+Mount Tagub,7.4328,126.2239,Philippines,Davao Region,2670,0,mountain,1684324
+Mount Alal,16.64628,120.88344,Philippines,Cordillera,2658,0,mountain,7427039
+Mount Panatoan,16.66437,120.88754,Philippines,Cordillera,2657,0,mountain,1695025
+Mount Nanluyaw,8.14056,124.85333,Philippines,Northern Mindanao,2612,0,mountain,1698245
+Mount Babadak,16.57898,120.88424,Philippines,Cordillera,2589,0,mountain,7427205
+Mount Halcon,13.2624,120.9954,Philippines,Mimaropa,2582,0,mountain,1711951
+Mount Abao,16.8333,120.9167,Philippines,Cordillera,2524,0,mountain,1732476
+Mount Mangabon,8.60528,125.10861,Philippines,Northern Mindanao,2510,0,mountain,1701888
+Mount Baco,12.8211,121.1731,Philippines,Mimaropa,2488,0,mountain,1729591
+Mount Sapocoy,17.3808,121.0075,Philippines,Cordillera,2456,0,mountain,1687215
+Mount Malindang,8.2182,123.6348,Philippines,Northern Mindanao,2404,0,mountain,1702707
+Mount Alchan,17.25064,120.96925,Philippines,Cordillera,2402,0,mountain,1731590
+Mount Kampalili,7.3103,126.2805,Philippines,Bicol Region,2396,0,mountain,1709484
+Mount Camingingel,17.1825,120.871,Philippines,Cordillera,2364,0,mountain,1719673
+Mount Sicapoo,18.01499,120.93758,Philippines,Cordillera,2361,0,mountain,1686684
+Mount Loco-ono,17.1769,120.8713,Philippines,Cordillera,2349,0,mountain,7633938
+Mount Pauadan,16.50298,120.88474,Philippines,Cordillera,2344,0,mountain,1694283
+Mount Kilakron,7.95639,124.87722,Philippines,Northern Mindanao,2329,0,mountain,1995572
+Mount Binuluan,17.3329,121.1447,Philippines,Cordillera,2329,0,mountain,1724829
+Mount Binulauan,17.3101,121.1005,Philippines,Cordillera,2328,0,mountain,1724846
+Mount Latukan,7.65452,124.43847,Philippines,Autonomous Region in Muslim Mindanao,2328,0,mountain,1707110
+"Mount Balatucan, Gingoog City",8.77009,124.98,Philippines,Northern Mindanao,2328,0,mountain,1728359
+Mount Napalauan,16.807,120.9586,Philippines,Cordillera,2298,0,mountain,1698210
+Mount Pack,16.4595,120.891,Philippines,Cordillera,2290,0,mountain,1696831
+Mount Matoni,17.1821,120.8897,Philippines,Cordillera,2285,0,mountain,7633937
+Mount Santo Tomas,16.33513,120.56091,Philippines,Cordillera,2251,0,mountain,1687508
+Mount Guibul,16.73857,120.95064,Philippines,Cordillera,2249,0,mountain,1712542
+Mount Sumagaya,8.65583,125.02722,Philippines,Northern Mindanao,2247,0,mountain,1685346
+Mount Balait,17.42483,120.99555,Philippines,Cordillera,2238,0,mountain,1728565
+Mount Mosimus,17.3016,121.0512,Philippines,Cordillera,2233,0,mountain,1699185
+Mount Lacob-ti-duyog,17.576,121.1441,Philippines,Cordillera,2217,0,mountain,1708205
+Mount Data,16.88086,120.84914,Philippines,Cordillera,2207,0,mountain,1715418
+Mount Toyangan,16.5684,120.736,Philippines,Cordillera,2202,0,mountain,1681368
+North Peak,8.2942,123.6281,Philippines,Northern Mindanao,2183,0,peak,1697533
+Mount Bayoyo,16.59358,120.76024,Philippines,Cordillera,2170,0,mountain,7427135
+Mount Maspit,17.1547,120.8548,Philippines,Cordillera,2163,0,mountain,7633939
+Mount Kaatoan,8.11778,124.98083,Philippines,Northern Mindanao,2153,0,mountain,1710017
+Mount Ugu,16.3194,120.8027,Philippines,Cagayan Valley,2150,0,mountain,1680409
+Mount Bangbanglang,17.3195,120.9241,Philippines,Cordillera,2144,0,mountain,1727304
+Mount Sipitan,17.1578,120.8802,Philippines,Cordillera,2127,0,mountain,1686081
+Mount Sucao,17.4427,121.1027,Philippines,Cordillera,2125,0,mountain,1685554
+Mount Nangtud,11.26762,122.20721,Philippines,Western Visayas,2117,0,mountain,1698257
+Mount Domocnoc,16.5804,120.7303,Philippines,Cordillera,2117,0,mountain,7428307
+Mount Lobo,16.7678,120.6857,Philippines,Cordillera,2106,0,mountain,1705875
+Mount Tago,8.39611,125.07528,Philippines,Northern Mindanao,2094,0,mountain,1684394
+Mount Guirayan,16.7605,120.6389,Philippines,Cordillera,2093,0,mountain,1712238
+Mount Pa’pa,16.70807,120.76604,Philippines,Cordillera,2083,0,mountain,1694848
+Mount Malamot,17.5356,121.1124,Philippines,Cordillera,2078,0,mountain,1703136
+Mount Busa,6.11861,124.68333,Philippines,Soccsksargen,2064,0,mountain,1722351
+Mount Manmanoc,17.6623,121.0931,Philippines,Cordillera,2064,0,mountain,1701562
+Mount Guitinguitin,12.41654,122.56881,Philippines,Mimaropa,2058,0,mountain,1712216
+Mount Sibuyan,12.40654,122.56901,Philippines,Mimaropa,2050,0,mountain,1686703
+Mount Burnay,17.94533,120.92426,Philippines,Cordillera,2048,0,mountain,1722376
+Sawtooth Mountain,15.451,120.1566,Philippines,Central Luzon,2037,0,mountain,1687077
+High Peak,15.4824,120.1205,Philippines,Central Luzon,2037,0,peak,1711773
+Mount Patapat,16.5481,120.7254,Philippines,Cordillera,2034,0,mountain,1694428
+Mount Yabnong,16.3554,120.8556,Philippines,Cordillera,2025,0,mountain,1679550
+Mount Wood,12.7453,121.2092,Philippines,Mimaropa,2024,0,mountain,1679566
+Mount Hilonghilong,9.09472,125.70389,Philippines,Caraga,2012,0,mountain,1711745
+Mount Kabuyao,16.35,120,Philippines,Cordillera,2000,0,mountain,1709846
+Mount Isarog,13.6578,123.3726,Philippines,Bicol Region,1965,0,mountain,1710505
+Mount Lungod,17.6498,121.1863,Philippines,Cordillera,1912,0,mountain,1705052
+Mount Guiwan,15.9442,121.2871,Philippines,Cagayan Valley,1910,0,mountain,1712201
+Bayabas,16.58298,120.77404,Philippines,Cordillera,1910,0,mountain,7427141
+Mount Matingoy,17.24664,121.17284,Philippines,Cordillera,1906,0,mountain,1701432
+Mount Dalimonoc,15.975,121.24222,Philippines,Cagayan Valley,1905,0,mountain,1715980
+Mount Polis,16.96296,121.02514,Philippines,Cordillera,1895,0,mountain,1693114
+Mount Mandalagan,10.63665,123.2361,Philippines,Western Visayas,1884,0,mountain,1701980
+Mount Tangulang,7.76556,125.22944,Philippines,Northern Mindanao,1879,0,mountain,1683082
+Mount Banahao De Lucban,14.0753,121.5131,Philippines,Calabarzon,1875,0,mountain,1727598
+Mount Oyayao,17.12306,121.25139,Philippines,Cordillera,1870,0,mountain,1696910
+Cuernos Mountains,9.24418,123.1775,Philippines,Central Visayas,1869,0,mountain,1716616
+Mount Patoc,17.146,120.9818,Philippines,Cordillera,1865,0,mountain,1694361
+Mount Mabaho,9.30194,125.67972,Philippines,Caraga,1860,0,mountain,1704710
+Mount Maranat,7.77369,124.56616,Philippines,Autonomous Region in Muslim Mindanao,1858,0,mountain,1701109
+South Peak,8.1805,123.637,Philippines,Northern Mindanao,1850,0,peak,1685711
+Mount Pulagon,17.683,121.1224,Philippines,Cordillera,1847,0,mountain,1692618
+Mount Sinclair,12.8499,121.1031,Philippines,Mimaropa,1842,0,mountain,1686238
+Mount Anacuao,16.2542,121.8891,Philippines,Central Luzon,1841,0,mountain,1730929
+Mount Balac,17.4995,121.0092,Philippines,Cordillera,1832,0,mountain,1728638
+Mount Bakoko,16.654,120.6888,Philippines,Cordillera,1832,0,mountain,1728710
+Mount Gantung,8.9595,117.8174,Philippines,Mimaropa,1813,0,mountain,1713240
+Mount Bukas,16.452,120.8619,Philippines,Cordillera,1792,0,mountain,7638807
+Mount Ticmo,17.5022,120.9738,Philippines,Cordillera,1790,0,mountain,1682347
+Mount Buaguan,17.515,121.0357,Philippines,Cordillera,1789,0,mountain,1723732
+Mount Libo Libo,16.8975,120.6248,Philippines,Ilocos,1785,0,mountain,1706613
+Mount Amo,17.0083,120.8226,Philippines,Cordillera,1770,0,mountain,1731026
+Mount Aganmala,18.26089,120.89895,Philippines,Ilocos,1768,0,mountain,1732183
+Mount Monserrat,17.04694,120.63528,Philippines,Ilocos,1763,0,mountain,1699301
+Mount Nadango,17.1277,120.8556,Philippines,Cordillera,1756,0,mountain,7634337
+Mount Atok,16.5646,120.6871,Philippines,Cordillera,1752,0,mountain,1729968
+Mount Makelkelan,17.5462,121.1962,Philippines,Cordillera,1738,0,mountain,1703409
+Mount Adalem,17.5255,121.1487,Philippines,Cordillera,1732,0,mountain,8031289
+Mount Landargun,8.913,117.7859,Philippines,Mimaropa,1725,0,mountain,1707641
+Mount Ambagyew,16.4077,120.8565,Philippines,Cordillera,1718,0,mountain,1731139
+Mount Palali,16.4283,121.2216,Philippines,Cagayan Valley,1705,0,mountain,1696326
+Mount Imugan,16.194,120.873,Philippines,Cagayan Valley,1685,0,mountain,1710924
+Mount Dos Cuernos,17.53682,121.99845,Philippines,Cagayan Valley,1679,0,mountain,1714376
+Mount Datu Masuyapa,8.23722,125.41639,Philippines,Caraga,1678,0,mountain,1715388
+Mount Caual,16.4184,120.8789,Philippines,Cordillera,1678,0,mountain,1717745
+Mount Antinangad,17.1571,120.8252,Philippines,Cordillera,1674,0,mountain,7633936
+Mount Iba,15.3638,120.169,Philippines,Central Luzon,1670,0,mountain,1711434
+Mount Cresta,17.28563,122.10594,Philippines,Cagayan Valley,1665,0,mountain,1716719
+Mount Agtuuganon,7.80076,126.20175,Philippines,Davao Region,1660,0,mountain,1731897
+Mount Patrick,12.9775,121.0861,Philippines,Mimaropa,1656,0,mountain,1694325
+Mount Susongdalaga,15.9534,121.2288,Philippines,Cagayan Valley,1650,0,mountain,1685192
+Mount Agamomata,18.15476,120.96781,Philippines,Cordillera,1649,0,mountain,1732189
+Mount Ampalauag,17.02985,121.29344,Philippines,Cordillera,1645,0,mountain,1730995
+Mount Latian,6.20917,125.5075,Philippines,Davao Region,1644,0,mountain,1707132
+Mount Indie,12.919,121.0708,Philippines,Mimaropa,1636,0,mountain,1710759
+Mount Panogaan,17.4684,121.0118,Philippines,Cordillera,1634,0,mountain,1695043
+Mount Nanaabung,16.03961,121.23404,Philippines,Cagayan Valley,1634,0,mountain,1698343
+Mount Lubluba,17.6218,121.2235,Philippines,Cordillera,1629,0,mountain,1705413
+Mount Punug,7.64068,124.5795,Philippines,Autonomous Region in Muslim Mindanao,1626,0,mountain,1692388
+Mount Tagdalit,7.4282,126.3247,Philippines,Davao Region,1626,0,mountain,1684455
+Mount Lusod,16.3664,120.7797,Philippines,Cordillera,1625,0,mountain,1704941
+Mount Ananeto,16.30703,120.69483,Philippines,Cordillera,1621,0,mountain,1730890
+Cleopatra Needle,10.12389,118.99528,Philippines,Mimaropa,1602,0,mountain,1717343
+Pitol Kalabaw Peak,6.25505,124.59672,Philippines,Soccsksargen,1598,0,mountain,1693287
+Mount Sinako,7.48944,125.25556,Philippines,Davao Region,1590,0,mountain,1686313
+Mount Bumalayak North Peak,17.7095,120.9619,Philippines,Cordillera,1588,0,mountain,1697530
+Mount Pultoc,17.5588,120.9342,Philippines,Cordillera,1586,0,mountain,1692505
+Mount Negron,15.09425,120.36729,Philippines,Central Luzon,1583,0,mountain,1697810
+Mount Binmaca,16.6816,120.6082,Philippines,Ilocos,1576,0,mountain,1724958
+Mount Manago,17.7469,120.9584,Philippines,Cordillera,1576,0,mountain,1702167
+Mount Tigas,11.29531,122.19021,Philippines,Western Visayas,1564,0,mountain,1682295
+Mount Bangdang,17.66911,121.25285,Philippines,Cordillera,1549,0,mountain,1727309
+Mount Magsingit,18.28511,120.97154,Philippines,Cordillera,1549,0,mountain,1703754
+Mount Malinao,13.4099,123.6103,Philippines,Bicol Region,1548,0,mountain,1702723
+Mount Dusong,16.52888,120.80924,Philippines,Cordillera,1547,0,mountain,7427160
+Mount Rosopy,17.34993,120.79175,Philippines,Cordillera,1542,0,mountain,1692348
+Mount Iniaoan,7.8208,123.9249,Philippines,Northern Mindanao,1535,0,mountain,1710718
+Mount Ampiro,8.3793,123.6215,Philippines,Northern Mindanao,1532,0,mountain,1730976
+Salagabanog Peak,7.61033,124.59257,Philippines,Soccsksargen,1530,0,mountain,1691002
+Mount Mambajao,9.17035,124.72445,Philippines,Northern Mindanao,1525,0,mountain,1702346
+Mount Hamiguitan,6.74022,126.17608,Philippines,Davao Region,1524,0,mountain,1711924
+Mount Tudul,5.95528,125.49444,Philippines,Soccsksargen,1521,0,mountain,1681019
+Mount Calavite,13.4818,120.4035,Philippines,Mimaropa,1520,0,mountain,1720453
+Mount Labo,14.0159,122.7933,Philippines,Bicol Region,1514,0,mountain,1708290
+Mount Silay,10.77534,123.2324,Philippines,Western Visayas,1510,0,mountain,1686500
+Mount Dos Hermanos,16.5112,122.0376,Philippines,Cagayan Valley,1510,0,mountain,1714373
+Pitot Kalabaw Mountain,6.45902,124.53232,Philippines,Soccsksargen,1503,0,mountain,1693282
+Mount Mariyug,7.57802,124.59361,Philippines,Soccsksargen,1490,0,mountain,1995828
+Mount Inoman,16.3867,120.7621,Philippines,Cordillera,1490,0,mountain,1710670
+Mount Magolo,6.43727,125.11561,Philippines,Soccsksargen,1486,0,mountain,1703812
+Baya Mountain,7.78634,124.09672,Philippines,Autonomous Region in Muslim Mindanao,1484,0,mountain,1978779
+Mount Burburungan,13.4003,120.8117,Philippines,Mimaropa,1482,0,mountain,1722469
+Mount Calibugon,8.9886,117.8643,Philippines,Mimaropa,1478,0,mountain,1720347
+Stripe Peak,10.20167,119.03444,Philippines,Mimaropa,1475,0,mountain,1685658
+Mount Sonogong,11.1555,122.1993,Philippines,Western Visayas,1474,0,mountain,1685786
+Mount San Cristobal,14.0621,121.423,Philippines,Calabarzon,1470,0,mountain,1690180
+Mount Cayudungan,17.8872,120.7303,Philippines,Cordillera,1469,0,mountain,1686993
+Mount Irid,14.78889,121.32583,Philippines,Calabarzon,1469,0,mountain,1710545
+Mount Magampao,7.61586,124.59583,Philippines,Soccsksargen,1468,0,mountain,1995827
+Mount Madocay,17.5918,121.0163,Philippines,Cordillera,1466,0,mountain,1704138
+Mount Itim-Itim,6.57294,124.50401,Philippines,Soccsksargen,1465,0,mountain,1710450
+Mount Otunao,15.9539,121.429,Philippines,Cagayan Valley,1464,0,mountain,1696936
+Mount Malibato,6.18078,124.90836,Philippines,Soccsksargen,1462,0,mountain,1702833
+Volcanic Peak,5.93361,125.47611,Philippines,Soccsksargen,1458,0,mountain,1679743
+Mount Sehal,16.3386,121.1823,Philippines,Cagayan Valley,1455,0,mountain,1687009
+Mount Linao,18.35512,120.91093,Philippines,Ilocos,1449,0,mountain,1706258
+Mount Tinanan,7.36194,125.23444,Philippines,Soccsksargen,1448,0,mountain,1958694
+Mount Pao,16.44,120.8167,Philippines,Cordillera,1444,0,mountain,7638781
+Mount Portoc,17.5189,121.1643,Philippines,Cordillera,1442,0,mountain,1692862
+Mount Kadang,16.42655,120.67908,Philippines,Cordillera,1441,0,mountain,1709835
+Mount Sugarloaf,7.9966,123.2565,Philippines,Zamboanga Peninsula,1432,0,mountain,1685515
+Mount Balatic,13.3224,120.8965,Philippines,Mimaropa,1430,0,mountain,1728377
+Mount Macaayao,5.82278,125.49694,Philippines,Davao Region,1428,0,mountain,1704465
+Mount Jamalapah,16.88066,121.13134,Philippines,Cordillera,1422,0,mountain,1710335
+Mount Mangaku,16.4286,120.8515,Philippines,Cordillera,1422,0,mountain,7638774
+Talili Mountain,6.18506,124.66997,Philippines,Soccsksargen,1410,0,mountain,1978310
+Mount Nalibo,17.0743,120.8,Philippines,Cordillera,1408,0,mountain,7633931
+Mount Tupi,7.9493,124.58484,Philippines,Autonomous Region in Muslim Mindanao,1398,0,mountain,1682952
+Mount Puloy,16.78987,121.05234,Philippines,Cordillera,1395,0,mountain,1692510
+Sicaba dacu Peak,10.79944,123.2407,Philippines,Western Visayas,1392,0,peak,1686695
+Mount Lambayo,18.21352,121.15709,Philippines,Cordillera,1389,0,mountain,1707814
+Mount Salat,16.5755,120.5682,Philippines,Cordillera,1375,0,mountain,1690944
+Mount Dumara,11.23672,122.15251,Philippines,Western Visayas,1370,0,mountain,1714151
+Mount Pungugupanunga,15.9351,121.4876,Philippines,Cagayan Valley,1370,0,mountain,1692451
+Mount Macatohuol,14.87889,121.32,Philippines,Central Luzon,1369,0,mountain,1704311
+End Peak,9.31722,118.21167,Philippines,Mimaropa,1356,0,mountain,1713880
+Mount Lobi,11.01194,124.81222,Philippines,Eastern Visayas,1350,0,mountain,1705889
+Mount Macopa,17.7402,121.1163,Philippines,Cordillera,1350,0,mountain,1704261
+Pico de Loro,18.51391,120.88681,Philippines,Ilocos,1350,0,peak,1693951
+Mount Tangob,17.2611,121.2574,Philippines,Cordillera,1350,0,mountain,1683134
+Mount Libang,17.5362,121.2294,Philippines,Cordillera,1346,0,mountain,8031287
+Mount Maliz,8.76025,117.66322,Philippines,Mimaropa,1345,0,mountain,1702602
+Gadungan Mountain,7.77751,124.07952,Philippines,Autonomous Region in Muslim Mindanao,1342,0,mountain,1978776
+Mount Nadumular,16.06541,121.12544,Philippines,Central Luzon,1335,0,mountain,1698844
+Mount Malabito,14.6855,121.4364,Philippines,Calabarzon,1334,0,mountain,1703336
+Mount Palalao,17.41303,120.89735,Philippines,Cordillera,1333,0,mountain,7616176
+Mount Kotkot,16.4551,120.7658,Philippines,Cordillera,1332,0,mountain,1708518
+Mount Kinabalian,8.20833,125.43444,Philippines,Caraga,1331,0,mountain,1708748
+Mount Donald McDonald,15.12744,120.36764,Philippines,Central Luzon,1330,0,mountain,1714448
+Mount Lunitan,15.1636,120.1683,Philippines,Central Luzon,1329,0,mountain,1705032
+Mount Masaraga,13.3101,123.5977,Philippines,Bicol Region,1328,0,mountain,1700737
+Mount Cuadrado,15.0321,120.34658,Philippines,Central Luzon,1324,0,mountain,1716679
+Mount Tiguran,10.8731,122.2299,Philippines,Western Visayas,1324,0,mountain,1682140
+Mount Pao,18.4151,120.87348,Philippines,Ilocos,1323,0,mountain,1694875
+Mount Salibugnug,8.25028,125.50556,Philippines,Caraga,1316,0,mountain,1690895
+Mount Fechel,12.9902,121.0168,Philippines,Mimaropa,1314,0,mountain,1713655
+Mount Tinaclauan,17.7876,121.1215,Philippines,Cordillera,1313,0,mountain,1682000
+Mount Dagot,17.8431,120.7019,Philippines,Cordillera,1305,0,mountain,1716225
+Mount Damchak,16.4411,120.773,Philippines,Cordillera,1305,0,mountain,7638793
+Mount Pacok,17.5258,121.2241,Philippines,Cordillera,1303,0,mountain,1696815
+Mount Sandig,17.7955,121.0946,Philippines,Cordillera,1302,0,mountain,1690153
+Mount Sumarangay,8.04917,124.45972,Philippines,Autonomous Region in Muslim Mindanao,1294,0,mountain,1685320
+Mount Sibulan,6.91889,125.40556,Philippines,Davao Region,1292,0,mountain,1686724
+Mount Darac,16.4898,120.7873,Philippines,Cordillera,1292,0,mountain,1715510
+Mount Gitangilang,8.47056,125.26361,Philippines,Caraga,1282,0,mountain,1712830
+Mount Naliwatan,11.6497,124.4618,Philippines,Eastern Visayas,1282,0,mountain,1698466
+Mount Malambo,7.64083,125.30306,Philippines,Northern Mindanao,1278,0,mountain,1703147
+Balokon Mountain,6.05167,124.70472,Philippines,Soccsksargen,1276,0,mountain,1727884
+Cabaay Mountain,6.05025,124.72959,Philippines,Soccsksargen,1276,0,mountain,1722066
+Mount Tongungan,16.8869,120.677,Philippines,Cordillera,1273,0,mountain,1681456
+Thumb Peak,9.79194,118.60389,Philippines,Mimaropa,1268,0,mountain,1682459
+Mount Sayoa,11.52333,124.57528,Philippines,Eastern Visayas,1266,0,mountain,1966519
+Mount Indian,16.469,120.7648,Philippines,Cordillera,1263,0,mountain,1710763
+Mount Maclayao,13.525,122.43806,Philippines,Calabarzon,1260,0,mountain,1704277
+Mount Calugong,16.3873,120.51484,Philippines,Ilocos,1253,0,mountain,1720097
+Mount Amungan,8.10722,124.45611,Philippines,Autonomous Region in Muslim Mindanao,1253,0,mountain,1730955
+Mount Natib,14.7125,120.4006,Philippines,Central Luzon,1253,0,mountain,1697988
+Mount Katubuan,7.8196,123.9117,Philippines,Northern Mindanao,1251,0,mountain,1958609
+Nannak Mount,16.56998,121.07984,Philippines,Cagayan Valley,1250,0,mountain,1698244
+Mount Merui,7.55944,125.26722,Philippines,Northern Mindanao,1248,0,mountain,1996246
+Mount Obulon,8.80167,124.86111,Philippines,Northern Mindanao,1245,0,mountain,1697337
+Mount Nagapu,17.8067,120.5886,Philippines,Ilocos,1245,0,mountain,1698807
+Mount Lipay,17.7565,121.1831,Philippines,Cordillera,1243,0,mountain,1706037
+Mount Indocay,8.79333,125.30694,Philippines,Caraga,1242,0,mountain,1710758
+Escarpado Peak,10.11741,119.1552,Philippines,Mimaropa,1242,0,mountain,1713809
+Mount Kanabuy,16.2047,121.02364,Philippines,Cagayan Valley,1238,0,mountain,1709471
+Mount Tinimogan,17.087,120.7962,Philippines,Cordillera,1237,0,mountain,7633930
+Mount Busingan,17.4917,121.0783,Philippines,Cordillera,1224,0,mountain,1722287
+Mount Kibongcal,5.96167,125.60194,Philippines,Davao Region,1224,0,mountain,1708855
+Mount Kibundo,7.62333,125.26806,Philippines,Northern Mindanao,1205,0,mountain,1708840
+Mount Tiglayo,11.11253,122.32921,Philippines,Western Visayas,1205,0,mountain,1682195
+Mount Micnic,13.2545,120.8289,Philippines,Mimaropa,1201,0,mountain,1699777
+Mount Blik,6.95917,124.21556,Philippines,Autonomous Region in Muslim Mindanao,1198,0,mountain,1724598
+Mount Maybinulong,17.53702,121.28055,Philippines,Cordillera,1198,0,mountain,1700037
+Mount Cabituroan,5.85333,125.53806,Philippines,Davao Region,1192,0,mountain,1721552
+Mount Oriod,14.87,121.22167,Philippines,Central Luzon,1188,0,mountain,1697025
+Mount Wayan,17.8777,121.1753,Philippines,Cordillera,1185,0,mountain,1679628
+Mount Palanan,17.05304,122.25704,Philippines,Cagayan Valley,1184,0,mountain,1696303
+Mount Burburan,18.40479,120.87246,Philippines,Ilocos,1182,0,mountain,1722471
+Mount Katgipsipan,16.0283,121.3958,Philippines,Cagayan Valley,1182,0,mountain,1709106
+Mount Kapok,6.58964,126.18478,Philippines,Davao Region,1179,0,mountain,1709216
+Mount Talalang,16.6052,120.5924,Philippines,Cordillera,1177,0,mountain,1684080
+Mount Bantolinao,11.12143,122.32191,Philippines,Western Visayas,1176,0,mountain,7412502
+Mount Lunas,10.7993,124.8174,Philippines,Eastern Visayas,1175,0,mountain,1705080
+Mount Tipolog,7.12833,125.33611,Philippines,Davao Region,1174,0,mountain,1681721
+Mount Olong Amo,15.9608,121.1566,Philippines,Central Luzon,1174,0,mountain,1697165
+Mount Lauaan,11.52028,124.53722,Philippines,Eastern Visayas,1172,0,mountain,1707099
+Mount Legaspi,9.42917,125.81944,Philippines,Caraga,1170,0,mountain,1706886
+Mount Tabaan,10.7689,124.8297,Philippines,Eastern Visayas,1170,0,mountain,1685124
+Mount Tallulah,12.7913,120.9992,Philippines,Mimaropa,1162,0,mountain,1683809
+Mount Kibuwa,8.26111,125.05306,Philippines,Northern Mindanao,1159,0,mountain,1708832
+Mount Tambara,10.81845,122.2416,Philippines,Western Visayas,1159,0,mountain,1683613
+Mount Malindig,13.2415,122.0136,Philippines,Mimaropa,1157,0,mountain,1700859
+Mount Tirad,17.13333,120.63333,Philippines,Ilocos,1154,0,mountain,1681704
+Mount Tangali,6.47694,125.40806,Philippines,Davao Region,1154,0,mountain,1683225
+Mount Muju,17.8487,121.0672,Philippines,Cordillera,1154,0,mountain,1699141
+Mount Talipanan,13.4642,120.8909,Philippines,Mimaropa,1152,0,mountain,1683909
+Mount Cunig,16.53578,121.08954,Philippines,Cagayan Valley,1150,0,mountain,1716472
+Mount Ponopen,16.53018,120.79574,Philippines,Cordillera,1147,0,mountain,7427159
+Mount Tagoan,7.78583,124.79722,Philippines,Northern Mindanao,1144,0,mountain,1995696
+Mount Calauag,17.7977,121.203,Philippines,Cordillera,1143,0,mountain,1720471
+Mount Bagsak,5.88194,125.57361,Philippines,Davao Region,1142,0,mountain,1958798
+Mount Bulayan,16.79626,121.20114,Philippines,Cordillera,1135,0,mountain,1724998
+Saddle Peak,5.72583,125.38111,Philippines,Soccsksargen,1133,0,mountain,1691202
+Mount Cagua,18.21528,122.12028,Philippines,Cagayan Valley,1132,0,mountain,1720937
+Mount Batangbang,16.4941,120.761,Philippines,Cordillera,1130,0,mountain,7638464
+Tinungkop Mountain,6.02361,124.75583,Philippines,Soccsksargen,1128,0,mountain,1681764
+Mount Munong,14.86028,121.31583,Philippines,Calabarzon,1127,0,mountain,1699091
+Mount Corumi,9.0601,117.9058,Philippines,Mimaropa,1125,0,mountain,1716783
+Mount Tinagan,10.8413,124.7975,Philippines,Eastern Visayas,1125,0,mountain,1681994
+Mount Kigangi,6.05667,125.63361,Philippines,Davao Region,1116,0,mountain,1708819
+Mount Peel,9.99611,118.71417,Philippines,Mimaropa,1114,0,mountain,1694112
+Mount Pundillo Ni Luna,15.1765,120.1533,Philippines,Central Luzon,1110,0,mountain,1692466
+Mount Binuang,14.77509,121.55705,Philippines,Calabarzon,1095,0,mountain,1724880
+Mount Engañaso,12.8691,123.2265,Philippines,Bicol Region,1093,0,mountain,1713873
+Mount Quinali,17.0934,120.761,Philippines,Ilocos,1090,0,mountain,1692081
+Mount Malepunyo,13.9663,121.2356,Philippines,Calabarzon,1077,0,mountain,1702863
+Alto Peak,11.10611,124.70972,Philippines,Eastern Visayas,1075,0,mountain,1731267
+Divilacan Peak,17.21673,122.27604,Philippines,Cagayan Valley,1075,0,mountain,1714589
+Mount Kolokol,7.83722,124.9275,Philippines,Northern Mindanao,1074,0,mountain,1998288
+Mount Talemo,7.66694,125.3225,Philippines,Northern Mindanao,1072,0,mountain,1958712
+Pointed Peak,14.85709,120.12583,Philippines,Central Luzon,1071,0,peak,1693163
+Mount Cabignayan,13.4553,120.6735,Philippines,Mimaropa,1063,0,mountain,1721618
+Mount Cacamtanan,17.1038,120.8348,Philippines,Cordillera,1061,0,mountain,7633935
+Mount Bita,7.50306,124.29306,Philippines,Autonomous Region in Muslim Mindanao,1057,0,mountain,1724749
+Mount Balitog,15.02563,120.32931,Philippines,Central Luzon,1057,0,mountain,1728000
+Lantawan Peak,10.8329,123.2361,Philippines,Western Visayas,1054,0,mountain,1707430
+Mount Capugan,16.79637,121.08834,Philippines,Cordillera,1051,0,mountain,7429479
+Mount Magnas,18.4473,120.9589,Philippines,Ilocos,1050,0,mountain,1703825
+Mount Camalobagoan,11.61444,124.52833,Philippines,Eastern Visayas,1048,0,mountain,1719927
+Sharp Peak,12.7815,124.0642,Philippines,Bicol Region,1047,0,mountain,1686914
+Mount Santo Domingo,16.74797,121.12084,Philippines,Cordillera,1047,0,mountain,1687710
+Mount Gumansan,11.6016,124.4894,Philippines,Eastern Visayas,1045,0,mountain,1712148
+Mount Lanat,15.6394,120.0419,Philippines,Central Luzon,1044,0,mountain,1707658
+Mount Gap,6.87083,125.12167,Philippines,Soccsksargen,1038,0,mountain,1713228
+Mount Puerai,8.03255,124.11827,Philippines,Northern Mindanao,1036,0,mountain,1692697
+Mount Moises,17.21193,122.12064,Philippines,Cagayan Valley,1036,0,mountain,1699420
+Mount Maubanban,14.89769,120.10693,Philippines,Central Luzon,1035,0,mountain,1700175
+Saddle Peak,13.77,123.6601,Philippines,Bicol Region,1033,0,mountain,1691201
+Mount Baua,18.23097,122.17195,Philippines,Cagayan Valley,1031,0,mountain,1725996
+Mount Carol-an,9.84028,122.94722,Philippines,Central Visayas,1030,0,mountain,1718296
+Mount Saint Paul,10.16361,118.90833,Philippines,Mimaropa,1027,0,mountain,1691042
+Mount Arayat,15.2053,120.7422,Philippines,Central Luzon,1026,0,mountain,1730224
+Mount Naltoot,17.8436,120.6074,Philippines,Ilocos,1026,0,mountain,1698456
+Mount Balabac,11.6088,122.1435,Philippines,Western Visayas,1024,0,mountain,1728643
+Mount Bontod Bato,5.91917,125.58333,Philippines,Davao Region,1018,0,mountain,1958800
+Mount Abra de Ilog,13.45167,120.67139,Philippines,Mimaropa,1018,0,mountain,1966028
+Mount Cahapatan,15.3195,120.1845,Philippines,Central Luzon,1016,0,mountain,1720897
+Mount Culliang,16.8077,120.575,Philippines,Ilocos,1014,0,mountain,1716516
+Capoas Mountain,10.8023,119.286,Philippines,Mimaropa,1012,0,mountain,1718635
+Mount Iraya,20.46675,122.01147,Philippines,Cagayan Valley,1008,0,mountain,1710562
+Mount Butioc,14.84389,121.31639,Philippines,Calabarzon,1007,0,mountain,1722210
+Mount Binaca,6.94917,124.0175,Philippines,Autonomous Region in Muslim Mindanao,1004,0,mountain,1725202
+Central Peak,9.63444,118.57111,Philippines,Mimaropa,994,0,mountain,1717474
+Mount Banti Goolong,17.6756,120.5933,Philippines,Cordillera,990,0,mountain,1727018
+Mount Agotay,11.5884,122.1506,Philippines,Western Visayas,988,0,mountain,1731948
+Mount Mamot,6.97278,124.12556,Philippines,Autonomous Region in Muslim Mindanao,984,0,mountain,1702243
+Mount Pawac,16.50868,121.08654,Philippines,Cagayan Valley,979,0,mountain,1694249
+Mount Bitanhuan,10.3623,125.0706,Philippines,Eastern Visayas,976,0,mountain,1724732
+Mount Kabatuan,9.46667,125.64278,Philippines,Caraga,975,0,mountain,1709937
+Mount Quimalogong,15.1508,120.1445,Philippines,Central Luzon,974,0,mountain,1692129
+Talayok Peak,6.242,124.91914,Philippines,Soccsksargen,974,0,mountain,1683998
+Mount Lobo,13.6458,121.2929,Philippines,Calabarzon,972,0,mountain,1705876
+Basilan Peak,6.5496,122.0723,Philippines,Autonomous Region in Muslim Mindanao,971,0,mountain,1726401
+Mount Labbi,16.51518,121.07064,Philippines,Cagayan Valley,970,0,mountain,1708323
+Mount Kamunay,14.6446,121.3158,Philippines,Calabarzon,967,0,mountain,1709296
+Mount Siam Bundoc,14.84056,121.23581,Philippines,Central Luzon,966,0,mountain,1686900
+Mount Igabon,11.229,122.3207,Philippines,Western Visayas,966,0,mountain,1711327
+Mount Cancajanag,11.02056,124.78611,Philippines,Eastern Visayas,965,0,mountain,1719357
+Mount Macolod,13.9206,121.0516,Philippines,Calabarzon,957,0,mountain,1704267
+Addison Peak,8.8079,117.777,Philippines,Mimaropa,955,0,mountain,1732250
+Mount Llave,10.4658,124.931,Philippines,Eastern Visayas,950,0,mountain,1705916
+Mount Lambato,5.93667,125.61583,Philippines,Davao Region,942,0,mountain,1958795
+Nagdayap Mountain,15.1303,120.1689,Philippines,Central Luzon,942,0,mountain,1698732
+Mount Redondo,10.3526,125.6421,Philippines,Caraga,938,0,mountain,1691791
+Mount Palaypay,10.6768,122.1226,Philippines,Western Visayas,938,0,mountain,1696158
+Mount Maymasibi,14.82362,121.24556,Philippines,Calabarzon,938,0,mountain,7428622
+Mount Igcalaya,11.14602,122.31971,Philippines,Western Visayas,935,0,mountain,1711260
+Rounded Peak,14.80659,120.13733,Philippines,Central Luzon,935,0,mountain,1691458
+Mount Alinyaban,13.4653,120.9215,Philippines,Mimaropa,934,0,mountain,1731408
+Mount Silao,15.09703,121.15216,Philippines,Central Luzon,929,0,mountain,1686510
+Mount Cantocloc,10.28944,125.22028,Philippines,Eastern Visayas,929,0,mountain,1718857
+Knob Peak,12.4707,121.3414,Philippines,Mimaropa,924,0,mountain,1708571
+Mount Pink,14.87859,120.11123,Philippines,Central Luzon,923,0,mountain,1693460
+Mount Danes,14.78111,121.27528,Philippines,Calabarzon,918,0,mountain,1715735
+Tagmungun Hump,6.49139,125.37944,Philippines,Davao Region,918,0,mountain,6569764
+Mount Ampayao,17.18083,120.57278,Philippines,Ilocos,915,0,mountain,1730981
+Mount Tinayunga,11.8239,121.9926,Philippines,Western Visayas,915,0,mountain,1681881
+Mount Taco,5.91333,125.60222,Philippines,Davao Region,914,0,mountain,1958796
+Mount Santa Clara,16.2319,121.02904,Philippines,Cagayan Valley,912,0,mountain,1688331
+Mount Milo,10.5016,125.0534,Philippines,Eastern Visayas,910,0,mountain,1699694
+Mount Nanuddalan,18.3016,121.2113,Philippines,Cordillera,908,0,mountain,1698231
+Spike Peak,8.74151,117.59079,Philippines,Mimaropa,905,0,mountain,1685680
+Mount Usigan,11.6287,122.1387,Philippines,Western Visayas,901,0,mountain,1680183
+Quipit Peak,7.76167,122.49,Philippines,Zamboanga Peninsula,899,0,mountain,1691999
+Tusk Peak,12.6799,120.9938,Philippines,Mimaropa,897,0,mountain,1680573
+Mount Libadan,6.88167,125.11194,Philippines,Soccsksargen,894,0,mountain,1706755
+Mount Salimbal Volcano,7.83944,124.85778,Philippines,Northern Mindanao,892,0,mountain,1995607
+Mount Pitalong,7.52056,125.34528,Philippines,Davao Region,891,0,mountain,1996253
+Mount Gumdalitan,10.88194,124.88861,Philippines,Eastern Visayas,890,0,mountain,1712135
+Sharp Peak,8.9138,117.6634,Philippines,Mimaropa,889,0,mountain,1686919
+Mount Inuman,14.88527,121.22781,Philippines,Central Luzon,889,0,mountain,1710630
+Bald Dome Peak,6.30989,125.17137,Philippines,Soccsksargen,886,0,mountain,1728289
+Mount Baboy,7.35278,124.665,Philippines,Soccsksargen,884,0,mountain,1978494
+Mount Daingan,5.77139,125.49083,Philippines,Davao Region,882,0,mountain,1716161
+Mount Cawayen,15.2008,120.1555,Philippines,Central Luzon,882,0,mountain,1717599
+Mount Domire,14.7177,121.2666,Philippines,Calabarzon,873,0,mountain,1714464
+Mount Navitas,12.5111,122.0683,Philippines,Mimaropa,869,0,mountain,1697857
+Mount Naburac,10.86583,124.8775,Philippines,Eastern Visayas,868,0,mountain,1698882
+Mount Apni,16.3943,120.4908,Philippines,Cordillera,867,0,mountain,1730344
+Abongabong Peak,6.5032,121.9842,Philippines,Autonomous Region in Muslim Mindanao,863,0,peak,1732388
+Mount Balut,5.39861,125.37444,Philippines,Davao Region,862,0,mountain,1727712
+Mount Congcong,10.6926,122.1251,Philippines,Western Visayas,861,0,mountain,1716947
+Mount Bayekngebang,17.3864,121.2108,Philippines,Cordillera,860,0,mountain,8031316
+Razor Back Mountain,10.1256,123.1933,Philippines,Central Visayas,857,0,mountain,1691815
+Mount Quebrada,18.5042,120.8245,Philippines,Ilocos,852,0,mountain,1692238
+Mount Jinauanan,10.07437,125.20562,Philippines,Eastern Visayas,851,0,mountain,1710169
+Mount Yaua,12.1528,124.9351,Philippines,Eastern Visayas,850,0,mountain,1718617
+Mount Kanbinlio,10.3819,125.6369,Philippines,Caraga,850,0,mountain,1709434
+Mount Dabukid,16.05917,121.69639,Philippines,Central Luzon,850,0,mountain,1716351
+Mount Bagumbun,7.63753,126.2873,Philippines,Davao Region,847,0,mountain,1728880
+Dome Peak,9.204,122.9684,Philippines,Central Visayas,846,0,mountain,1714474
+Mount Maranat,14.86147,121.20207,Philippines,Central Luzon,845,0,mountain,1701108
+Mount Ampaoid,7.87722,125.67389,Philippines,Davao Region,844,0,mountain,1730990
+Mount Bintacan,12.795,123.9375,Philippines,Bicol Region,843,0,mountain,1724904
+Mount Agong,12.4524,121.3713,Philippines,Mimaropa,842,0,mountain,1731968
+Mount Palawdao,8.34833,124.94528,Philippines,Northern Mindanao,836,0,mountain,1696175
+Mount Bajucan,17.9264,121.266,Philippines,Cordillera,835,0,mountain,1728751
+Mount Sumacbao,15.19569,121.17626,Philippines,Central Luzon,833,0,mountain,1685356
+Mount Mabolinoc,14.95254,120.28257,Philippines,Central Luzon,830,0,mountain,1704527
+Mount Dorst,15.13708,120.43166,Philippines,Central Luzon,829,0,mountain,1714377
+Gatong Mountain,7.80194,124.345,Philippines,Autonomous Region in Muslim Mindanao,828,0,mountain,1978701
+Mount Calugon,5.88556,125.59222,Philippines,Davao Region,828,0,mountain,1958799
+Mount Putianay,13.8093,123.4998,Philippines,Bicol Region,826,0,mountain,1692321
+Mount Libe,7.65917,125.39361,Philippines,Northern Mindanao,821,0,mountain,1996227
+Mount Maloyon,15.87389,121.06611,Philippines,Central Luzon,813,0,mountain,1702505
+Mount Cabugao,7.53895,124.22924,Philippines,Autonomous Region in Muslim Mindanao,812,0,mountain,1721421
+Mount Nailog,12.44233,122.50931,Philippines,Mimaropa,812,0,mountain,1698540
+Mount Huraw,12.064,125.0459,Philippines,Eastern Visayas,811,0,mountain,1711456
+Mount Pangpang,17.3643,120.6411,Philippines,Cordillera,811,0,mountain,1695216
+Mount Tumatangas,5.997,120.96252,Philippines,Autonomous Region in Muslim Mindanao,811,0,mountain,1680756
+Mount Catmon,10.9557,124.7478,Philippines,Eastern Visayas,809,0,mountain,1717832
+Mount Piglagahan,8.85389,125.22778,Philippines,Northern Mindanao,809,0,mountain,1693901
+Mount Bloomfield,10.18611,118.86333,Philippines,Mimaropa,808,0,mountain,1724591
+Bee Hive Peak,6.155,125.38639,Philippines,Soccsksargen,808,0,mountain,1725638
+Dalumpa Peak,15.4548,121.2626,Philippines,Central Luzon,805,0,peak,1715929
+Mount Manalapan,7.70266,125.36419,Philippines,Northern Mindanao,804,0,mountain,1996218
+Mount Masarat,14.7309,121.3134,Philippines,Calabarzon,798,0,mountain,1700734
+Mount Balabac,14.82594,121.17903,Philippines,Central Luzon,793,0,mountain,1728674
+Pantao Marig Hill,8.02889,124.24694,Philippines,Autonomous Region in Muslim Mindanao,792,0,mountain,6569489
+Mount Masadsadoc,18.28339,120.77322,Philippines,Ilocos,790,0,mountain,1700799
+Mount Tobo,7.09139,124.13861,Philippines,Autonomous Region in Muslim Mindanao,790,0,mountain,1681660
+Talayan Mountain Range,6.74204,124.30685,Philippines,Autonomous Region in Muslim Mindanao,790,0,mountain,1684005
+Mount Tagiptip,8.36139,124.73639,Philippines,Northern Mindanao,789,0,mountain,1684434
+Mount Bagacay,14.2179,122.8234,Philippines,Bicol Region,787,0,mountain,1729700
+Mount Sinumaan,6.0375,121.10083,Philippines,Autonomous Region in Muslim Mindanao,785,0,mountain,1686136
+Mount Guimbarogtog,11.84298,121.98241,Philippines,Western Visayas,785,0,mountain,1712478
+Mount Sagurum,12.7281,123.3522,Philippines,Bicol Region,784,0,mountain,1691059
+Mount Maquineng,15.0716,120.1903,Philippines,Central Luzon,784,0,mountain,1701190
+Mount Indang,7.56444,125.35056,Philippines,Davao Region,782,0,mountain,1996242
+Tubo Hill,7.0475,124.17389,Philippines,Autonomous Region in Muslim Mindanao,782,0,mountain,1978277
+Mount Tapha,18.33967,122.19855,Philippines,Cagayan Valley,779,0,mountain,1682954
+Bukid Mountain,17.48432,122.13815,Philippines,Cagayan Valley,778,0,mountain,1723160
+Mount Palnabao,6.00111,125.65528,Philippines,Davao Region,778,0,mountain,6569848
+Mount Aborlan,9.5108,118.4669,Philippines,Mimaropa,775,0,mountain,1732384
+Mount Tabernaculo,15.00967,121.17671,Philippines,Central Luzon,775,0,mountain,1685021
+Mount Patugo,15.3747,120.0625,Philippines,Central Luzon,772,0,mountain,1694304
+Mount Upao,11.6599,122.136,Philippines,Western Visayas,772,0,mountain,1680236
+Mount San Isidro,15.9907,120.1168,Philippines,Ilocos,770,0,mountain,1689627
+Mount Conico,12.33614,122.58891,Philippines,Mimaropa,770,0,mountain,1716939
+Mount Hingatungan,10.5919,125.1288,Philippines,Eastern Visayas,769,0,mountain,1711634
+Mount Pelhi,10.20444,125.64028,Philippines,Caraga,769,0,mountain,1694106
+Mount Alimutos,7.74779,125.3989,Philippines,Northern Mindanao,767,0,mountain,1996205
+Mount Balintingan,15.26573,121.21788,Philippines,Central Luzon,766,0,mountain,1728057
+Mount Pamucuban,13.1874,120.8583,Philippines,Mimaropa,762,0,mountain,1695827
+Mount Sulatan,6.62522,124.35652,Philippines,Soccsksargen,758,0,mountain,7468154
+Mount Lumobat,6.46778,125.44111,Philippines,Davao Region,758,0,mountain,6569770
+Mount Cardoues,15.75,120.0868,Philippines,Central Luzon,756,0,mountain,1718423
+Mount Bernacci,13.6092,122.9704,Philippines,Bicol Region,755,0,mountain,1725547
+Mount Gambang,16.7527,120.524,Philippines,Ilocos,755,0,mountain,7612770
+Navaro Peak,6.39193,125.00917,Philippines,Soccsksargen,753,0,mountain,1697869
+Mount Sumadil,6.17889,125.67889,Philippines,Davao Region,752,0,mountain,1685350
+Mount Balabag,10.43287,123.2912,Philippines,Western Visayas,750,0,mountain,1728657
+Mount Baheli,9.98583,118.74194,Philippines,Mimaropa,750,0,mountain,1728822
+Mount Apatani,16.2947,120.9832,Philippines,Cagayan Valley,750,0,mountain,1730392
+Mount Mutbud,11.0656,122.2078,Philippines,Western Visayas,746,0,mountain,1699032
+Mount Tiis,13.8293,123.5275,Philippines,Bicol Region,744,0,mountain,1682129
+Mount Sembrano,14.3853,121.3655,Philippines,Calabarzon,743,0,mountain,1686994
+Mount Calauhan,8.41222,125.42,Philippines,Caraga,743,0,mountain,1720463
+Tandrac Peak,13.2685,120.7059,Philippines,Mimaropa,740,0,peak,1683270
+Mount Jormajam,12.7586,124.0024,Philippines,Bicol Region,737,0,mountain,1710113
+Pagoda Cliffs,8.72361,117.5006,Philippines,Mimaropa,736,0,mountain,1696552
+Mount Tres Marias,9.19137,124.68571,Philippines,Northern Mindanao,731,0,mountain,1958928
+Mount Lunas,10.25472,124.91583,Philippines,Eastern Visayas,729,0,mountain,1705081
+Mount Baca,15.39378,121.20579,Philippines,Central Luzon,729,0,mountain,1729712
+Mount Pina,11.22306,124.62333,Philippines,Eastern Visayas,728,0,mountain,1693736
+Mount Cadig,14.15186,122.44429,Philippines,Calabarzon,726,0,mountain,1721183
+Mount Lantalon,5.82583,125.55417,Philippines,Davao Region,725,0,mountain,1707453
+Malabakid Hill,6.52194,125.36833,Philippines,Davao Region,724,0,mountain,1978509
+Bear Peak,15.2384,120.0971,Philippines,Central Luzon,723,0,peak,1725658
+Mount Camiguin,18.83361,121.86111,Philippines,Cagayan Valley,723,0,mountain,1719695
+Mount Silingan,7.77583,122.50222,Philippines,Zamboanga Peninsula,722,0,mountain,1686480
+Mount Maylaw,5.80694,125.52833,Philippines,Davao Region,721,0,mountain,1958802
+Mount Corobong,6.83167,123.98667,Philippines,Autonomous Region in Muslim Mindanao,720,0,mountain,1716845
+Mount Daraitan,14.6131,121.4388,Philippines,Calabarzon,719,0,mountain,1715498
+Mount Dumali,13.1082,121.52032,Philippines,Mimaropa,716,0,mountain,1714178
+Mount Oonooan,14.89933,121.22942,Philippines,Central Luzon,715,0,mountain,1697089
+Mount Naparel,15.2193,120.1079,Philippines,Central Luzon,711,0,mountain,1698198
+Mount Cabalalaan,7.15062,124.13309,Philippines,Autonomous Region in Muslim Mindanao,709,0,mountain,1721973
+Mount Igbaon,10.827,122.1403,Philippines,Western Visayas,709,0,mountain,1711289
+Mount Potol,11.8229,122.0253,Philippines,Western Visayas,709,0,mountain,1692830
+Mount Taburub,18.01035,121.21401,Philippines,Cordillera,709,0,mountain,1684757
+Mount Gonzales,14.14233,121.02174,Philippines,Calabarzon,709,0,mountain,1685268
+Milas Peak,6.3538,124.87252,Philippines,Soccsksargen,706,0,mountain,1699711
+Mount Giron,11.54889,124.52556,Philippines,Eastern Visayas,705,0,mountain,1712836
+Mount Waranaktaha,7.72722,125.37528,Philippines,Northern Mindanao,702,0,mountain,1996212
+Mount Biao,5.99,125.65389,Philippines,Davao Region,702,0,mountain,1725481
+Mount Lomboy,16.4217,120.4972,Philippines,Cordillera,699,0,mountain,1705744
+Mount Natalisbong,15.7468,120.0563,Philippines,Central Luzon,699,0,mountain,1698004
+Mount Lahi,6.40685,126.18428,Philippines,Davao Region,698,0,mountain,1708000
+Mount Tapian,13.4203,121.9883,Philippines,Mimaropa,698,0,mountain,1682948
+Mount Nilayapan,7.70162,125.38028,Philippines,Northern Mindanao,696,0,mountain,1996217
+Mount Paragpagan,13.0583,120.8255,Philippines,Mimaropa,696,0,mountain,1694797
+Mount Silanguin,14.7755,120.17203,Philippines,Central Luzon,693,0,mountain,1686516
+Mount Batulao,14.04736,120.80522,Philippines,Calabarzon,693,0,mountain,1726022
+Mount Liguayen,13.6992,121.1884,Philippines,Calabarzon,692,0,mountain,1706446
+Mount Paete,15.0445,120.1643,Philippines,Central Luzon,690,0,mountain,1696716
+Mount Babuyan,19.538,121.91216,Philippines,Cagayan Valley,688,0,mountain,1729719
+Mount Pico de Loro,14.2154,120.6512,Philippines,Calabarzon,688,0,mountain,1693952
+Mount Nelangaapan,9.9329,125.26989,Philippines,Eastern Visayas,687,0,mountain,1697804
+Mount Mactaon,11.63583,125.29056,Philippines,Eastern Visayas,683,0,mountain,1704244
+Tupilac Peak,7.70186,122.35346,Philippines,Zamboanga Peninsula,683,0,peak,1680611
+Mount Pigbaluyan,5.95361,125.6275,Philippines,Davao Region,682,0,mountain,1958793
+Mount Maiyapay,8.87833,125.4675,Philippines,Caraga,675,0,mountain,1703464
+Mount Ilian,10.43418,119.5458,Philippines,Mimaropa,675,0,mountain,1711088
+Mount Agsam,6.12583,125.65167,Philippines,Davao Region,674,0,mountain,6569832
+Mount Salungcatan,6.14333,125.67806,Philippines,Davao Region,670,0,mountain,6569828
+Mount Tabacanon,6.36667,125.59639,Philippines,Davao Region,668,0,mountain,1684512
+Tablas Summit,12.6488,122.1428,Philippines,Mimaropa,665,0,mountain,1684950
+Mount Balocol,5.72778,125.45472,Philippines,Davao Region,664,0,mountain,1727924
+Mount Catongohan,15.2388,120.0772,Philippines,Central Luzon,664,0,mountain,1717807
+Mount Mangkirat,15.325,120.1494,Philippines,Central Luzon,664,0,mountain,1701775
+Mount Kinawagan,7.67426,125.36867,Philippines,Northern Mindanao,663,0,mountain,1996223
+Mount Caningan,10.0121,125.25362,Philippines,Eastern Visayas,662,0,mountain,1719116
+Mount Patulangon,6.28222,125.63333,Philippines,Davao Region,662,0,mountain,1694298
+Mount Abriringan,18.29967,122.26915,Philippines,Cagayan Valley,659,0,mountain,1732372
+Mount Tunggol,6.03583,121.11667,Philippines,Autonomous Region in Muslim Mindanao,657,0,mountain,1957854
+Mount Cagagangan,18.15238,122.17445,Philippines,Cagayan Valley,657,0,mountain,1721124
+Mount Pimmayong,15.0302,120.1806,Philippines,Central Luzon,657,0,mountain,1693748
+Mount Balunao,5.99333,125.67083,Philippines,Davao Region,654,0,mountain,1958790
+Mount Atimbia,14.1491,121.3657,Philippines,Calabarzon,654,0,mountain,1729990
+Balitan Hump,6.47444,125.35611,Philippines,Davao Region,654,0,mountain,6569760
+Panangiran Peak,12.3985,121.2579,Philippines,Mimaropa,652,0,mountain,1695677
+Mount Tachu,5.82194,125.35806,Philippines,Soccsksargen,652,0,mountain,1684721
+Mount Panasugan,10.7294,124.874,Philippines,Eastern Visayas,651,0,mountain,1695634
+Mount Matulid,14.88528,121.27889,Philippines,Calabarzon,651,0,mountain,1700219
+Mount Tungo,11.8003,121.9583,Philippines,Western Visayas,648,0,mountain,1680657
+Mount Musuan,7.87667,125.07,Philippines,Northern Mindanao,646,0,mountain,1699033
+Benagongon Mountain,13.7979,120.2978,Philippines,Mimaropa,645,0,mountain,1725595
+Mount Biaring,7.02056,124.21389,Philippines,Autonomous Region in Muslim Mindanao,644,0,mountain,1978280
+Mount Dangulog,6.51194,125.34306,Philippines,Davao Region,642,0,mountain,1978480
+Mount Pundaquit,14.90159,120.07163,Philippines,Central Luzon,642,0,mountain,1692470
+Mount Tamboo,13.6844,124.1126,Philippines,Bicol Region,642,0,mountain,1683531
+Lambuyao Mountain,8.40083,124.35778,Philippines,Northern Mindanao,642,0,mountain,6569717
+Kabuludan Hump,6.48667,125.36444,Philippines,Davao Region,642,0,mountain,6569761
+Mount Taginusa,6.34944,125.60389,Philippines,Davao Region,642,0,mountain,6569880
+Mount Tundalara,12.0296,120.232,Philippines,Mimaropa,640,0,mountain,1680701
+Mount Gaitan,7.61944,125.36222,Philippines,Davao Region,638,0,mountain,1996232
+Mount Suguitan,13.8608,123.5658,Philippines,Bicol Region,635,0,mountain,1685467
+Mount Malapantao,9.8961,122.6155,Philippines,Western Visayas,633,0,mountain,1703056
+Pito del Carabao Mountain,6.25222,124.85535,Philippines,Soccsksargen,632,0,mountain,1693324
+Mount Mohaji,6.56699,121.956,Philippines,Autonomous Region in Muslim Mindanao,631,0,mountain,1699426
+Mount Pina,12.4355,121.378,Philippines,Mimaropa,630,0,mountain,1693735
+Lamulas Mountain,6.23583,124.74611,Philippines,Soccsksargen,628,0,mountain,1978311
+Mount Cabaun,14.81843,121.21826,Philippines,Calabarzon,628,0,mountain,1721479
+Mount Malabahoc,9.18861,123.5825,Philippines,Central Visayas,628,0,mountain,1703361
+Mount Baring,10.40999,119.5515,Philippines,Mimaropa,626,0,mountain,1726666
+Mount Airy,9.95222,118.67528,Philippines,Mimaropa,626,0,mountain,1731777
+Mount Kilatan,7.71229,125.38696,Philippines,Northern Mindanao,625,0,mountain,1996216
+Disogsip Mountain,15.691,121.6061,Philippines,Central Luzon,625,0,mountain,1714639
+Mount Mapatad,14.6892,121.271,Philippines,Calabarzon,625,0,mountain,1701273
+Mount Tristan,10.1379,125.6374,Philippines,Caraga,625,0,mountain,1681302
+Tigmaola Hill,11.0732,122.1809,Philippines,Western Visayas,624,0,mountain,1682187
+Mount Ruparan,6.82556,125.33444,Philippines,Davao Region,622,0,mountain,1691409
+Mount Mangatarem,15.8901,120.1034,Philippines,Ilocos,618,0,mountain,1701821
+Mount Canapauan,18.18208,122.22835,Philippines,Cagayan Valley,613,0,mountain,1719435
+Mount Nazasa,14.83889,120.10313,Philippines,Central Luzon,612,0,mountain,1697825
+Mount Matanal,6.61699,122.30195,Philippines,Autonomous Region in Muslim Mindanao,611,0,mountain,1700450
+Mount Redondo,14.83719,120.18513,Philippines,Central Luzon,611,0,mountain,1691790
+Mount Ambonong,13.76036,120.17832,Philippines,Mimaropa,610,0,mountain,7567474
+Mount Malemod,14.7579,121.22932,Philippines,Calabarzon,608,0,mountain,1702864
+Base Peak,6.24535,125.14749,Philippines,Soccsksargen,606,0,peak,1726439
+Mount Abunabun,7.46806,124.17944,Philippines,Autonomous Region in Muslim Mindanao,606,0,mountain,1732329
+Bay Peak,10.683,119.3643,Philippines,Mimaropa,604,0,peak,1725714
+Mount Kaladis,7.57861,122.96417,Philippines,Zamboanga Peninsula,604,0,mountain,1709743
+Mount Uac,12.20735,123.65991,Philippines,Bicol Region,604,0,mountain,1680513
+Mount Banjao,11.8171,122.0491,Philippines,Western Visayas,602,0,mountain,1727154
+Mount Carranglan,15.9226,121.0242,Philippines,Central Luzon,602,0,mountain,1718265
+Triple Peak,12.40631,122.06736,Philippines,Mimaropa,601,0,mountain,1681305
+Mount Dajo,6.01306,121.05833,Philippines,Autonomous Region in Muslim Mindanao,600,0,mountain,1716144
+Conical Peak,12.4019,123.4713,Philippines,Bicol Region,600,0,mountain,1716943
+Triple Peak,13.7195,123.8078,Philippines,Bicol Region,599,0,mountain,1681304
+Mount Taltak,5.61444,125.33083,Philippines,Soccsksargen,598,0,mountain,1683734
+Mount Lagit,18.12668,122.15175,Philippines,Cagayan Valley,596,0,mountain,1708114
+Mount Quinasagan,10.4612,124.8822,Philippines,Eastern Visayas,596,0,mountain,1692059
+Mount Miganangan,7.83156,125.36892,Philippines,Northern Mindanao,595,0,mountain,1996194
+Mount Lumot,15.06494,121.10524,Philippines,Central Luzon,595,0,mountain,1705130
+Mount Cruz,14.94472,121.16996,Philippines,Central Luzon,595,0,mountain,1716689
+Suwaon Mountain,7.74139,125.60111,Philippines,Davao Region,593,0,mountain,1996362
+Mount Calolocob,18.19857,122.22915,Philippines,Cagayan Valley,593,0,mountain,1720170
+Mount Sandang,6.41959,124.08257,Philippines,Soccsksargen,592,0,mountain,1966125
+Mount Cobung,6.57333,122.18167,Philippines,Autonomous Region in Muslim Mindanao,592,0,mountain,1717305
+Mount Maanga,10.9543,124.4934,Philippines,Eastern Visayas,591,0,mountain,1704789
+Mount Dangulog,6.49583,125.33972,Philippines,Davao Region,591,0,mountain,6569757
+Mount Kalipapa,6.86583,124.27917,Philippines,Autonomous Region in Muslim Mindanao,590,0,mountain,1709610
+Mount Bagsak,6.02806,121.13944,Philippines,Autonomous Region in Muslim Mindanao,590,0,mountain,1728994
+Mount Janlog,10.24778,124.85,Philippines,Eastern Visayas,587,0,mountain,1710285
+Susong Dalaga Mountain,15.6602,121.607,Philippines,Central Luzon,587,0,mountain,7418923
+Sharp Peak,13.6221,124.1331,Philippines,Bicol Region,585,0,mountain,1686913
+Mount San Antonio,13.3892,121.9529,Philippines,Mimaropa,585,0,mountain,1690287
+Mount Palaupau,12.5825,122.0509,Philippines,Mimaropa,585,0,mountain,1696183
+Mount Libuan,7.77949,125.39171,Philippines,Northern Mindanao,584,0,mountain,1996199
+Mount Olagusan,7.8927,125.9552,Philippines,Davao Region,584,0,mountain,1697242
+Mount Yaua,12.149,125.0263,Philippines,Eastern Visayas,583,0,mountain,1679501
+Guinsiliban Peak,9.1,124.76667,Philippines,Northern Mindanao,581,0,peak,1958954
+Mount Bagulipat,12.22214,123.66731,Philippines,Bicol Region,581,0,mountain,1728913
+Mount Williams,15.8677,120.9709,Philippines,Central Luzon,578,0,mountain,1679575
+Mount Catmon,8.048,123.8786,Philippines,Northern Mindanao,577,0,mountain,1717834
+Mount Table,7.46306,124.79833,Philippines,Soccsksargen,576,0,mountain,1684949
+Mount Cabulugan,14.11822,121.21394,Philippines,Calabarzon,576,0,mountain,7407460
+Mount Silangan,6.29333,125.61861,Philippines,Davao Region,574,0,mountain,6569856
+Mount Cabatangan,11.07603,122.35271,Philippines,Western Visayas,570,0,mountain,7412508
+Bunhlo Hill,15.3183,120.1282,Philippines,Central Luzon,570,0,mountain,7616191
+Mount Bayawa,5.8125,125.55111,Philippines,Davao Region,569,0,mountain,1958801
+Mount Calaninan,10.45833,124.84,Philippines,Eastern Visayas,569,0,mountain,1720603
+Balabac Peak,7.924,117.0525,Philippines,Mimaropa,569,0,mountain,1728671
+Mount Dangulao,11.094,122.1481,Philippines,Western Visayas,567,0,mountain,1715688
+Mount Tala,6.32222,125.60889,Philippines,Davao Region,567,0,mountain,6569851
+Mount Bulibu,7.7036,123.1769,Philippines,Zamboanga Peninsula,566,0,mountain,1722895
+Mount Botolan,15.23276,120.04278,Philippines,Central Luzon,563,0,mountain,1723821
+Mount Piluca,15.0585,120.2208,Philippines,Central Luzon,562,0,mountain,1693754
+Mount Caloumutan,12.5928,123.9908,Philippines,Bicol Region,559,0,mountain,1720162
+Mount Tubuan,7.00139,124.01389,Philippines,Autonomous Region in Muslim Mindanao,558,0,mountain,1681103
+Mount Iriga,13.4549,123.458,Philippines,Bicol Region,557,0,mountain,1710543
+Mount Tincugan,14.98026,121.14586,Philippines,Central Luzon,555,0,mountain,1681878
+Mount Lagman,5.75,125.49361,Philippines,Davao Region,552,0,mountain,1958816
+Mount Tanganhin,11.2323,122.3781,Philippines,Western Visayas,552,0,mountain,1683223
+Kayparet Mountain,13.8138,120.2994,Philippines,Mimaropa,552,0,mountain,7566857
+Shark Fin Peak,11.05722,119.46333,Philippines,Mimaropa,551,0,mountain,1686930
+Mount Purro,14.6988,121.2354,Philippines,Calabarzon,550,0,mountain,1692355
+Mount Buga,7.5957,123.275,Philippines,Zamboanga Peninsula,549,0,mountain,1723348
+Mount Lanas,10.27518,123.733,Philippines,Central Visayas,549,0,mountain,1707661
+Mount Malac,14.79206,121.22364,Philippines,Calabarzon,548,0,mountain,1703295
+Mount Dapiak,8.2255,123.4259,Philippines,Zamboanga Peninsula,547,0,mountain,1715548
+Mount Mapusuan,11.2906,122.3583,Philippines,Western Visayas,547,0,mountain,7412481
+Double Peak,8.72321,117.42449,Philippines,Mimaropa,544,0,mountain,1714362
+Mount Progreso,12.5784,122.0952,Philippines,Mimaropa,544,0,mountain,1692753
+Mount Calayan,19.32052,121.46747,Philippines,Cagayan Valley,543,0,mountain,1720426
+Mount Mangrupid,18.4247,120.7353,Philippines,Ilocos,543,0,mountain,1701734
+Mount Hinologan Calis,9.863,122.4706,Philippines,Western Visayas,543,0,mountain,1711608
+Mount Limila,14.7295,121.2269,Philippines,Calabarzon,542,0,mountain,1706333
+Mount Compananan,14.7353,121.2344,Philippines,Calabarzon,542,0,mountain,1717060
+Mount Caunabayan,7.8278,125.9204,Philippines,Davao Region,542,0,mountain,1717679
+Mount Tobu,7.48333,124.19139,Philippines,Autonomous Region in Muslim Mindanao,542,0,mountain,1681653
+Taradungan Mountain,10.37849,119.5137,Philippines,Mimaropa,541,0,mountain,1682862
+Mount Sining Capan,6.63167,122.20778,Philippines,Autonomous Region in Muslim Mindanao,537,0,mountain,1686185
+Mount Gakit,7.57417,125.34056,Philippines,Davao Region,535,0,mountain,1996239
+Mount Salimbagao,6.55389,125.34694,Philippines,Davao Region,534,0,mountain,1978482
+Mount Telaptap,9.117,122.9552,Philippines,Central Visayas,533,0,mountain,1682532
+Mount Taratara,10.9255,122.1003,Philippines,Western Visayas,533,0,mountain,7412147
+Mount Caanisilagan,10.9293,124.7353,Philippines,Eastern Visayas,530,0,mountain,1722083
+Mount Baganting,10.09694,125.16611,Philippines,Eastern Visayas,530,0,mountain,1729171
+Mount Acsubing,10.45278,123.915,Philippines,Central Visayas,530,0,mountain,1732267
+Mount Balsinong,6.10722,125.67833,Philippines,Davao Region,529,0,mountain,1727839
+Mount Maasim,11.34691,122.27341,Philippines,Western Visayas,529,0,mountain,1704767
+Mount Tinuntungan,6.83806,125.28,Philippines,Davao Region,528,0,mountain,1978724
+Mount Nai-guin,9.9402,122.8632,Philippines,Western Visayas,527,0,mountain,1698546
+Mount Akir Akir,7.42056,124.50722,Philippines,Soccsksargen,526,0,mountain,1978495
+Mount Intigban,11.0563,122.1046,Philippines,Western Visayas,526,0,mountain,1710646
+Mount Bulalo,14.10082,121.22658,Philippines,Calabarzon,525,0,mountain,1722993
+Mount Junes,10.6958,122.0664,Philippines,Western Visayas,525,0,mountain,1710035
+Bentoan Peak,10.14806,118.8225,Philippines,Mimaropa,523,0,mountain,1725561
+Gap Hill,8.8363,117.5622,Philippines,Mimaropa,522,0,mountain,1713216
+Mount Sohototon,11.56139,125.21389,Philippines,Eastern Visayas,522,0,mountain,1685893
+Mount Rapu Rapu,13.19995,124.15918,Philippines,Bicol Region,520,0,mountain,1691861
+Mount Bacacao,11.01611,119.45944,Philippines,Mimaropa,519,0,mountain,1729704
+Knob Peak,19.55694,121.98,Philippines,Cagayan Valley,518,0,mountain,1708570
+Mount Patunungan,18.32537,122.27055,Philippines,Cagayan Valley,518,0,mountain,1694294
+Mount Galintan,6.95373,126.07391,Philippines,Davao Region,516,0,mountain,1713339
+Mount Basig,16.8153,120.5168,Philippines,Ilocos,516,0,mountain,7612768
+Mount Ilihan,10.5074,125.1125,Philippines,Eastern Visayas,515,0,mountain,1711066
+False Balabac Peak,7.919,117.062,Philippines,Mimaropa,515,0,mountain,1713672
+Mount Pulong Mabilog,15.9084,121.1626,Philippines,Central Luzon,515,0,mountain,1692528
+Mount Malaqui Babui,18.41683,121.29016,Philippines,Cagayan Valley,512,0,mountain,1703032
+Mount Magliliyot,12.0787,120.3004,Philippines,Mimaropa,511,0,mountain,1703847
+Mount Munguit,6.03139,121.12472,Philippines,Autonomous Region in Muslim Mindanao,509,0,mountain,1957861
+East Peak,11.29444,119.53,Philippines,Mimaropa,509,0,mountain,1713978
+Mount Tungco,6.33,125.57861,Philippines,Davao Region,508,0,mountain,6569852
+Tayong Peak,9.6361,124.0724,Philippines,Central Visayas,506,0,mountain,1682624
+Mount Gawer,6.48083,124.0744,Philippines,Soccsksargen,504,0,mountain,1713094
+Mount Agapang,17.5206,120.942,Philippines,Cordillera,503,0,mountain,1732176
+Mount Bantag,12.1003,120.2477,Philippines,Mimaropa,502,0,mountain,1727064
+Mount Luyang,9.8888,122.9251,Philippines,Western Visayas,502,0,mountain,1704857
+Mount Gayana,6.08472,125.66667,Philippines,Davao Region,501,0,mountain,1713080
+Mount Panay,13.723,120.898,Philippines,Calabarzon,501,0,mountain,1695615
+Nopol Hill,6.23306,125.14056,Philippines,Soccsksargen,501,0,peak,1697579
+Panlubongan Mountain,9.84278,122.52278,Philippines,Western Visayas,498,0,mountain,1695050
+Mount Yabangan,10.8934,122.0413,Philippines,Western Visayas,498,0,mountain,7412163
+Mount Butung,7.75333,125.07,Philippines,Northern Mindanao,494,0,mountain,1996474
+Malanut Peak,9.19668,117.97778,Philippines,Mimaropa,494,0,mountain,1703071
+Mount Syniop,6.46905,124.05194,Philippines,Soccsksargen,490,0,mountain,1685150
+Mount Salimbao,6.26917,125.64611,Philippines,Davao Region,489,0,mountain,6569861
+Mount Bacauan,7.615,123.2966,Philippines,Zamboanga Peninsula,488,0,mountain,1729650
+Mount Pulantuna,14.0156,122.8441,Philippines,Bicol Region,486,0,mountain,1692583
+Mount Ta-al,11.2976,122.3972,Philippines,Western Visayas,486,0,mountain,7412480
+Mount Santa Rita,14.8222,120.3635,Philippines,Central Luzon,485,0,mountain,1687921
+Mount Maria,7.32889,122.26917,Philippines,Zamboanga Peninsula,484,0,mountain,1700996
+Gorro Peak,5.5269,120.85756,Philippines,Autonomous Region in Muslim Mindanao,483,0,peak,1712719
+Mount Ynantagung,11.17028,119.4525,Philippines,Mimaropa,483,0,mountain,1679470
+Mount Maon,15.00862,121.13977,Philippines,Central Luzon,480,0,mountain,1701344
+Mount Cunonoyo,15.1891,120.0917,Philippines,Central Luzon,479,0,mountain,1716470
+Mount Asgad,11.42333,125.20972,Philippines,Eastern Visayas,475,0,mountain,1730100
+Mount Sujac,12.5724,124.0113,Philippines,Bicol Region,475,0,mountain,1685452
+Mount Pacawagan,14.7269,121.1714,Philippines,Calabarzon,475,0,mountain,1696849
+Mount Dakut,5.7336,120.9043,Philippines,Autonomous Region in Muslim Mindanao,474,0,mountain,1716121
+Mount Santa Cruz,15.1472,120.0934,Philippines,Central Luzon,471,0,mountain,1688215
+Mount Caramay,10.16351,119.2082,Philippines,Mimaropa,470,0,mountain,1718516
+Mount Candungao,9.8711,123.9228,Philippines,Central Visayas,468,0,mountain,1719229
+Mount Oltaloro,11.7292,120.0298,Philippines,Mimaropa,468,0,mountain,1697158
+Mount Balanayo,5.62722,125.32556,Philippines,Soccsksargen,466,0,mountain,1958843
+Bigain Hill,13.897,121.076,Philippines,Calabarzon,464,0,mountain,7393774
+Mount Bucas,8.079,123.8718,Philippines,Northern Mindanao,463,0,mountain,1723577
+Round Peak,13.6125,124.1269,Philippines,Bicol Region,463,0,mountain,1691452
+Mount Bunglo,15.3091,120.113,Philippines,Central Luzon,462,0,mountain,1722618
+Mount Tantauayan,9.9431,122.5449,Philippines,Western Visayas,462,0,mountain,1683033
+Mount Apulagan,18.28787,122.30035,Philippines,Cagayan Valley,461,0,mountain,1730300
+Mount Lundag,10.9351,124.4798,Philippines,Eastern Visayas,458,0,mountain,1705070
+Mount Monondon,17.2567,120.5442,Philippines,Ilocos,458,0,mountain,1699316
+Mount Canjamampaay,11.3849,124.5122,Philippines,Eastern Visayas,456,0,mountain,1719077
+Mount Kabasalan,7.82222,122.81111,Philippines,Zamboanga Peninsula,456,0,mountain,1709953
+Mount Bihag,11.72556,125.35583,Philippines,Eastern Visayas,455,0,mountain,1725332
+Mount Baytangan,14.6698,121.2124,Philippines,Calabarzon,455,0,mountain,1725707
+Mount Bacod,11.4186,123.0528,Philippines,Western Visayas,455,0,mountain,1729588
+Mount Matarem,20.39115,121.94297,Philippines,Cagayan Valley,453,0,mountain,1703571
+Mount Casapao,13.643,120.9156,Philippines,Calabarzon,448,0,mountain,1718189
+Mount Mataba,14.6931,121.1641,Philippines,Calabarzon,448,0,mountain,1700558
+Pancol Peak,10.9003,119.3855,Philippines,Mimaropa,446,0,mountain,1695593
+Mount Ambulong,13.77786,120.15672,Philippines,Mimaropa,446,0,mountain,7567473
+Mount Pinaguglongan,7.55833,125.34306,Philippines,Davao Region,445,0,mountain,1996248
+Mount Osoguen,18.16278,122.21875,Philippines,Cagayan Valley,443,0,mountain,1696967
+Mount Saugon,8.14056,126.05694,Philippines,Caraga,441,0,mountain,1687114
+Mount Pera,15.2797,120.1635,Philippines,Central Luzon,441,0,mountain,1694049
+Mount Naligang,14.2077,120.61,Philippines,Calabarzon,441,0,mountain,1698487
+Hileman Hill,12.58443,121.10631,Philippines,Mimaropa,438,0,mountain,1711749
+Mount Pantabaron,15.8433,121.0958,Philippines,Central Luzon,437,0,mountain,1694986
+Omid Peak,10.904,119.436,Philippines,Mimaropa,437,0,mountain,1697135
+Mount Cayluya,14.13778,120.65361,Philippines,Calabarzon,435,0,mountain,1717546
+Mount Lantuan,11.3246,123.0627,Philippines,Western Visayas,432,0,mountain,1707420
+Mount Apiton,11.1789,123.1059,Philippines,Western Visayas,432,0,mountain,1730355
+Mount Nablo,15.14341,121.08627,Philippines,Central Luzon,432,0,mountain,1698941
+Mount Carlo,13.685,121.208,Philippines,Calabarzon,431,0,mountain,1718359
+Mount Panginraon,11.2733,122.6152,Philippines,Western Visayas,431,0,mountain,1695275
+Mount Difun,16.4165,121.5469,Philippines,Cagayan Valley,430,0,mountain,1714973
+Mount Urot,5.98001,121.26037,Philippines,Autonomous Region in Muslim Mindanao,430,0,mountain,1680194
+Mount Nangabaywanan,19.32802,121.4335,Philippines,Cagayan Valley,429,0,mountain,1697600
+Transept Hill,7.88,117.0541,Philippines,Mimaropa,429,0,mountain,1681349
+Mount Nagirong,11.2515,122.3871,Philippines,Western Visayas,429,0,mountain,7412483
+Mount Lico,18.46416,121.22697,Philippines,Cagayan Valley,428,0,mountain,1706519
+Mount Transmitter Peak,6.40056,125.5775,Philippines,Davao Region,428,0,mountain,1681348
+Mount Migtango,6.24972,125.65944,Philippines,Davao Region,428,0,mountain,6569864
+Mount Makam,5.9395,120.9776,Philippines,Autonomous Region in Muslim Mindanao,427,0,mountain,1704624
+Mount Busay,11.4008,124.8297,Philippines,Eastern Visayas,423,0,mountain,1722318
+Silanga Peak,11.04028,119.54389,Philippines,Mimaropa,422,0,mountain,1686525
+Mount Lunas,12.2903,122.0359,Philippines,Mimaropa,422,0,mountain,1705079
+Mount Kulpidong,5.8,125.36639,Philippines,Soccsksargen,422,0,mountain,1708445
+Mount Susungdalaga,15.13181,121.0895,Philippines,Central Luzon,422,0,mountain,1685178
+Mount Banbanon,7.8189,125.8277,Philippines,Davao Region,421,0,mountain,1727490
+Mount Susung Dalaga,14.3388,121.2327,Philippines,Calabarzon,421,0,mountain,1685181
+Capaclan Hill,9.9261,122.4682,Philippines,Western Visayas,418,0,mountain,1718786
+Taviran Mountains,7.10556,124.29556,Philippines,Autonomous Region in Muslim Mindanao,418,0,mountain,1682698
+Mount Nanca,8.5916,123.5359,Philippines,Zamboanga Peninsula,418,0,mountain,1698329
+Mount Reden,6.44444,125.33583,Philippines,Davao Region,418,0,mountain,6569773
+Mount Gonting,13.77139,120.20306,Philippines,Mimaropa,417,0,mountain,1966023
+Mount Alpaco,10.23428,123.6802,Philippines,Central Visayas,415,0,mountain,1731284
+Mount Mayapa,14.99488,121.13831,Philippines,Central Luzon,415,0,mountain,1700060
+Mount Abuyog,10.3767,125.0947,Philippines,Eastern Visayas,414,0,mountain,1732307
+Dos Picos,14.2291,120.6694,Philippines,Calabarzon,414,0,mountain,1714368
+Mount Pasmacanan,18.40594,122.25218,Philippines,Cagayan Valley,414,0,mountain,1694540
+Mount Mahanggulod,14.13079,121.24237,Philippines,Calabarzon,413,0,mountain,7407462
+Mount Sining Capan,6.61333,122.215,Philippines,Autonomous Region in Muslim Mindanao,412,0,mountain,1957356
+Mount Camagon,14.1416,122.0216,Philippines,Calabarzon,412,0,mountain,1719951
+Mount Banga,12.0366,120.1953,Philippines,Mimaropa,410,0,mountain,1727385
+Mount Lanitoc,15.2988,120.1476,Philippines,Central Luzon,410,0,mountain,1707486
+Mount Rocky,16.5572,122.2899,Philippines,Cagayan Valley,410,0,mountain,1691574
+Mount Bangcay,15.77889,120.73389,Philippines,Central Luzon,408,0,mountain,1727291
+Mount Poras,10.7846,122.1299,Philippines,Western Visayas,406,0,mountain,1692906
+Mount Naconlong,11.37091,122.35741,Philippines,Western Visayas,406,0,mountain,7413062
+Mount Bayuso,11.1302,122.7281,Philippines,Western Visayas,405,0,mountain,1725671
+Mount Chinankan,11.8664,120.0001,Philippines,Mimaropa,405,0,mountain,1717412
+Mount Yabang,14.6538,121.2168,Philippines,Calabarzon,405,0,mountain,1679553
+Mount Villon,12.4388,123.4157,Philippines,Bicol Region,405,0,mountain,1679828
+Pyramid Hill,9.0725,118.0166,Philippines,Mimaropa,404,0,mountain,1692248
+Drake Peak,10.50068,119.6236,Philippines,Mimaropa,403,0,mountain,1714351
+Mount Monkiaua,6.55861,125.48361,Philippines,Davao Region,403,0,mountain,1699320
+Mount Latugon,8.6783,123.4888,Philippines,Zamboanga Peninsula,402,0,mountain,1707107
+Mount Palan,5.8135,121.1638,Philippines,Autonomous Region in Muslim Mindanao,401,0,mountain,1696308
+Mount Dupungan,7.6364,123.3218,Philippines,Zamboanga Peninsula,396,0,mountain,1714036
+Mount Vizcaya,13.2399,124.0176,Philippines,Bicol Region,395,0,mountain,1679753
+Ganalatan Peak,6.46167,122.06611,Philippines,Autonomous Region in Muslim Mindanao,394,0,mountain,1713278
+Mount Talipao,5.94472,121.07583,Philippines,Autonomous Region in Muslim Mindanao,391,0,mountain,1683902
+Big Peak,10.57217,119.6226,Philippines,Mimaropa,389,0,mountain,1725347
+Mount Parangan,5.97753,121.40193,Philippines,Autonomous Region in Muslim Mindanao,389,0,mountain,1694758
+Mount Three Peaks,10.65454,124.44537,Philippines,Central Visayas,386,0,mountain,1682464
+Mount Balungao,15.86372,120.68085,Philippines,Ilocos,382,0,mountain,1722975
+Strait Peak,10.9745,119.3236,Philippines,Mimaropa,381,0,mountain,1685660
+Mount Batuanan,9.865,124.4172,Philippines,Central Visayas,379,0,mountain,1726050
+Mount Mabajon,10.5998,124.7969,Philippines,Eastern Visayas,378,0,mountain,1704707
+Mount Inaburan,6.3825,125.60389,Philippines,Davao Region,377,0,mountain,6569879
+Mount Sibuguey,7.60028,122.81556,Philippines,Zamboanga Peninsula,376,0,mountain,1686748
+Mount Amorong,15.8366,120.8066,Philippines,Ilocos,376,0,mountain,1731005
+Mount Olila,14.07765,121.21454,Philippines,Calabarzon,376,0,mountain,1697196
+Mount Tres Reyes,7.6984,123.007,Philippines,Zamboanga Peninsula,376,0,mountain,1681326
+Meacac Mountain,10.9706,119.3594,Philippines,Mimaropa,375,0,mountain,1699906
+Mount Matigao,12.01776,123.23251,Philippines,Bicol Region,373,0,mountain,7522658
+Mount Abnataclayong,5.675,125.36694,Philippines,Soccsksargen,370,0,mountain,1732411
+Mount Tarranosa,7.5298,123.145,Philippines,Zamboanga Peninsula,367,0,mountain,1682790
+Mount Mirador,16.41667,120.58333,Philippines,Cordillera,366,0,mountain,1699509
+Mount Agyaboy,18.30127,122.32405,Philippines,Cagayan Valley,366,0,mountain,7410724
+Bagahupi Peak,11.32333,124.89222,Philippines,Eastern Visayas,364,0,mountain,1729225
+Ilihan Hill,10.6499,124.45,Philippines,Central Visayas,363,0,mountain,7491970
+Mount Capoto-on,12.22172,125.08085,Philippines,Eastern Visayas,362,0,mountain,1718616
+Liminangcong Peak,10.989,119.3197,Philippines,Mimaropa,362,0,mountain,1706331
+Mount Catmon,10.3659,125.141,Philippines,Eastern Visayas,362,0,mountain,1717833
+Omid Shoulder,10.8999,119.4488,Philippines,Mimaropa,362,0,mountain,1697134
+Mount Udahan,9.66417,123.99031,Philippines,Central Visayas,362,0,mountain,1680442
+Taran Hill,5.988,120.9322,Philippines,Autonomous Region in Muslim Mindanao,361,0,mountain,1682847
+Mount Maybato,10.8078,122.0906,Philippines,Western Visayas,358,0,mountain,1700039
+Mount Balogo,10.851,122.3697,Philippines,Western Visayas,357,0,mountain,1727896
+Mount Lapak,5.517,120.7599,Philippines,Autonomous Region in Muslim Mindanao,357,0,mountain,1707379
+Mount Masawa,13.9256,120.6842,Philippines,Calabarzon,355,0,mountain,1965996
+Pinto Mountain,7.21639,124.84056,Philippines,Soccsksargen,354,0,mountain,1978605
+Mount Biladali,5.2824,120.1124,Philippines,Autonomous Region in Muslim Mindanao,349,0,mountain,1725307
+Mount Bitu,6.50472,125.55111,Philippines,Davao Region,347,0,mountain,6569894
+Mount Caliduan,8.58361,125.36917,Philippines,Caraga,346,0,mountain,1720328
+Mount Puldulan,12.1109,120.0459,Philippines,Mimaropa,346,0,mountain,7390010
+Mount Labañgan,15.0781,120.1399,Philippines,Central Luzon,345,0,mountain,1708364
+Mount Maateg,11.02611,119.37083,Philippines,Mimaropa,345,0,mountain,1704734
+Jungle Mountain,17.77823,121.81733,Philippines,Cagayan Valley,345,0,mountain,1710032
+Mount Amangsarahacan,11.21111,125.40583,Philippines,Eastern Visayas,344,0,mountain,1731178
+Mount Cayoguiocan,10.5837,124.8722,Philippines,Eastern Visayas,343,0,mountain,1717540
+Bongao Peak,5.01361,119.74222,Philippines,Autonomous Region in Muslim Mindanao,342,0,mountain,1724084
+Mount Mapulang Kamay,12.1241,120.2727,Philippines,Mimaropa,342,0,mountain,7389729
+Mount Tudoc,5.94167,125.31333,Philippines,Soccsksargen,339,0,mountain,1958787
+Mount Ledan,7.0293,118.5036,Philippines,Mimaropa,337,0,mountain,1706900
+Mount Pana,7.9158,123.9071,Philippines,Northern Mindanao,336,0,mountain,1695809
+Mount Timuyug,8.54917,125.40778,Philippines,Caraga,334,0,mountain,1682035
+Mount Kuluban,12.0819,120.0772,Philippines,Mimaropa,334,0,mountain,7390012
+Mount Leson,18.48526,122.22925,Philippines,Cagayan Valley,331,0,mountain,1706824
+Mount Dinapiqui,16.52844,122.24464,Philippines,Cagayan Valley,331,0,mountain,1714758
+Calagnaan Mountain,11.4734,123.2095,Philippines,Western Visayas,331,0,mountain,7430736
+Mount Bandarin,6.79972,125.34222,Philippines,Davao Region,330,0,mountain,1978631
+Mount Bonaba,15.8556,121.1115,Philippines,Central Luzon,329,0,mountain,1724191
+Mount Blit,6.92861,124.28306,Philippines,Autonomous Region in Muslim Mindanao,328,0,mountain,1979152
+Mount Ten Seventy Hill,5.37889,125.41389,Philippines,Davao Region,326,0,mountain,1958890
+Mount Pitogo,5.90117,121.2909,Philippines,Autonomous Region in Muslim Mindanao,326,0,mountain,1693301
+Mount Bijiang,14.1618,121.16612,Philippines,Calabarzon,323,0,mountain,1725324
+Chinayan Peak,10.9711,119.2843,Philippines,Mimaropa,323,0,mountain,1717409
+Mount Masombrero,13.2564,120.5618,Philippines,Mimaropa,323,0,mountain,1700598
+Guibanderahan Mountain,9.7558,123.8234,Philippines,Central Visayas,323,0,mountain,7449847
+Low Hock,8.65512,117.42849,Philippines,Mimaropa,322,0,mountain,1705495
+Mount Datu Sali,5.11694,119.93667,Philippines,Autonomous Region in Muslim Mindanao,321,0,mountain,1715381
+Mount Quimalogong,15.0773,120.1072,Philippines,Central Luzon,320,0,mountain,1692131
+Mount Luyong,14.10965,121.24626,Philippines,Calabarzon,318,0,mountain,1704851
+Olongo Peak,10.8982,119.2648,Philippines,Mimaropa,318,0,mountain,1697170
+Mount Agsubay,11.2624,122.8433,Philippines,Western Visayas,316,0,mountain,1731920
+Mount Kan Kaukab,5.98528,121.17306,Philippines,Autonomous Region in Muslim Mindanao,314,0,mountain,1957864
+Mount Buraay,11.2959,123.0903,Philippines,Western Visayas,313,0,mountain,1722522
+Kitakal Hill,6.49639,125.30917,Philippines,Davao Region,312,0,mountain,6569756
+Mount Mapote,5.15361,119.94667,Philippines,Autonomous Region in Muslim Mindanao,311,0,mountain,1701243
+Mount Taal,14.00401,120.99133,Philippines,Calabarzon,311,0,mountain,1685140
+Anato Peak,11.015,119.32278,Philippines,Mimaropa,309,0,mountain,1730848
+Tandu Hill,5.96169,121.39603,Philippines,Autonomous Region in Muslim Mindanao,308,0,mountain,1683245
+Conical Peak,13.8404,124.1569,Philippines,Bicol Region,306,0,mountain,1716942
+Mount Masaia,14.15346,121.15627,Philippines,Calabarzon,306,0,mountain,1700782
+Bancuan Mountain,11.1712,119.6132,Philippines,Mimaropa,306,0,mountain,7388060
+Mount Dependak,12.1033,120.2199,Philippines,Mimaropa,304,0,mountain,7390046
+Munkayawa Hill,6.54194,125.50306,Philippines,Davao Region,304,0,mountain,6569888
+Mount Taobun,11.86488,121.92931,Philippines,Western Visayas,303,0,mountain,1683003
+Mount Alimono,9.9352,124.0339,Philippines,Central Visayas,302,0,mountain,1731438
+Mount Boray,11.40051,122.31881,Philippines,Western Visayas,302,0,mountain,7413045
+Mount Mayabobo,13.97673,121.4531,Philippines,Calabarzon,300,0,mountain,1700094
+Mount Mabitog,14.13693,121.15859,Philippines,Calabarzon,295,0,mountain,7405745
+Mount Maburgos,13.9921,120.6385,Philippines,Calabarzon,282,0,mountain,1704477
+North Tuluran Peak,11.00472,119.28917,Philippines,Mimaropa,278,0,mountain,1697515
+Mount Abunug,11,124.68333,Philippines,Eastern Visayas,258,0,mountain,1732321
+Mount Awak,6.04444,121.03444,Philippines,Autonomous Region in Muslim Mindanao,254,0,mountain,1729910
+Mount Pintong Itim,13.9125,120.6916,Philippines,Calabarzon,253,0,mountain,1965998
+Mount Tamlong,14.0825,121.24125,Philippines,Calabarzon,249,0,mountain,1683463
+Mount Maus,11.7485,119.9923,Philippines,Mimaropa,244,0,mountain,1700127
+Mount Camotes,14.16224,121.15212,Philippines,Calabarzon,244,0,mountain,7405747
+Mount Cauayan,11.0871,124.4747,Philippines,Eastern Visayas,240,0,mountain,1717726
+Mount Buod Mainat,9.19944,118.14556,Philippines,Mimaropa,238,0,mountain,1722533
+Mount Patikul,6.07583,121.03972,Philippines,Autonomous Region in Muslim Mindanao,235,0,mountain,1694386
+Mount Natangdol,12.20016,121.08911,Philippines,Mimaropa,230,0,mountain,1698001
+Mount Cinital,7.54936,122.41612,Philippines,Zamboanga Peninsula,221,0,mountain,1717378
+Mount Parang Parang,7.729,123.0744,Philippines,Zamboanga Peninsula,221,0,mountain,1694748
+Mount Buboy,14.09651,121.24355,Philippines,Calabarzon,215,0,mountain,7405701
+Mount Talipusa,14.21614,120.75994,Philippines,Calabarzon,207,0,mountain,1683897
+Mount Northwest,12.5909,122.0153,Philippines,Mimaropa,200,0,mountain,1697511
+Bejia Mountain,12.8841,123.2562,Philippines,Bicol Region,197,0,mountain,7374253
+Mount Obo,11.97756,123.17541,Philippines,Bicol Region,179,0,mountain,7431136
+Lokat Mountain,12.8694,123.1878,Philippines,Bicol Region,179,0,mountain,7374241
+Mount Pauican,10.6034,122.0876,Philippines,Western Visayas,169,0,mountain,1694274
+Mount Samat,14.60222,120.49139,Philippines,Central Luzon,168,0,mountain,1690643
+Mount Bulauan,14.1743,122.5566,Philippines,Bicol Region,153,0,mountain,1722933
+Mount Canoling,12.60183,121.06731,Philippines,Mimaropa,136,0,mountain,1718976
+Mount Payapao,12.6472,122.1184,Philippines,Mimaropa,134,0,mountain,7414001
+Mount Dinagat,6.09944,125.685,Philippines,Davao Region,128,0,mountain,6569836
+Mount Dakula,5.98111,121.18083,Philippines,Autonomous Region in Muslim Mindanao,121,0,mountain,1716122
+Mount Sandahan,5.90655,121.30195,Philippines,Autonomous Region in Muslim Mindanao,119,0,mountain,1690177
+Mount Horn,11.18389,119.28194,Philippines,Mimaropa,119,0,mountain,1711526
+Kaumpang Peak,5.73876,120.90839,Philippines,Autonomous Region in Muslim Mindanao,117,0,mountain,1709046
+Mount Tamba,11.7733,121.959,Philippines,Western Visayas,111,0,mountain,1683660
+Mount Calindo,12.0072,120.2801,Philippines,Mimaropa,103,0,mountain,7389732
+Mount Bulaan,6.13361,121.83393,Philippines,Autonomous Region in Muslim Mindanao,100,0,mountain,1722966
+Mount Malabobo,15.71953,120.30756,Philippines,Ilocos,100,0,mountain,1703326
+Pinanginan Mountain,10.9576,119.2884,Philippines,Mimaropa,98,0,mountain,7386781
+Mount Malpal,11.3459,123.1247,Philippines,Western Visayas,96,0,mountain,1702499
+Mount Taguiptip,12.057,120.3122,Philippines,Mimaropa,96,0,mountain,7389735
+Mipale Peak,10.8832,119.3735,Philippines,Mimaropa,95,0,mountain,1699514
+Mount Timpoak,6.04389,121.16667,Philippines,Autonomous Region in Muslim Mindanao,94,0,mountain,1682041
+Mount Glinoga,12.0292,120.0908,Philippines,Mimaropa,94,0,mountain,7390014
+Mount Magasauangbato,13.6542,120.8616,Philippines,Calabarzon,93,0,mountain,1703993
+Mount Kalebaong,12.1054,120.2031,Philippines,Mimaropa,92,0,mountain,7390045
+Mount Sinagsagan,11.3571,122.9242,Philippines,Western Visayas,90,0,mountain,1686324
+Mount Gorda,9.6042,124.2535,Philippines,Central Visayas,89,0,peak,1712741
+Mount Namalayan,12.3656,121.4311,Philippines,Mimaropa,80,0,mountain,1698422
+Mount Balantoc,14.03578,120.97049,Philippines,Calabarzon,76,0,mountain,1728451
+Mount Maningkulat,5.4603,120.5825,Philippines,Autonomous Region in Muslim Mindanao,74,0,mountain,1958185
+Mount Cuyapo,15.80111,120.65861,Philippines,Central Luzon,73,0,mountain,1716400
+Mount Abing,6.65694,122.16694,Philippines,Autonomous Region in Muslim Mindanao,67,0,mountain,1732424
+Mount Marawarawa,12.08327,119.95981,Philippines,Mimaropa,49,0,mountain,7388699
+Mount Nalabujan,12.07437,119.95591,Philippines,Mimaropa,29,0,mountain,7388691
+Mount Bato,7.77673,125.38498,Philippines,Northern Mindanao,,0,mountain,1996202
+Mount Tamusan,7.74853,125.38577,Philippines,Northern Mindanao,,0,mountain,1996206
+Mount Bulo,7.74753,125.3769,Philippines,Northern Mindanao,,0,mountain,1996207
+Mount Sinakawan,7.74729,125.3717,Philippines,Northern Mindanao,,0,mountain,1996208
+Mount Kilalom,7.71441,125.37754,Philippines,Northern Mindanao,,0,mountain,1996215
+Mount Pamapko,7.68562,125.36548,Philippines,Northern Mindanao,,0,mountain,1996221
+Mount Binasalan,7.66722,125.39472,Philippines,Northern Mindanao,,0,mountain,1996224
+Mount Kabuling,7.65889,125.36472,Philippines,Northern Mindanao,,0,mountain,1996225
+Mount Kipangko,7.64611,125.38583,Philippines,Northern Mindanao,,0,mountain,1996228
+Mount Salalayan,7.65083,125.36528,Philippines,Northern Mindanao,,0,mountain,1996229
+Mount Pangalalayan,7.62306,125.38667,Philippines,Davao Region,,0,mountain,1996233
+Mount Takulanao,7.58694,125.35639,Philippines,Davao Region,,0,mountain,1996237
+Mount Simsiman,7.57722,125.34722,Philippines,Davao Region,,0,mountain,1996240
+Mount Tampulong,7.57056,125.29722,Philippines,Northern Mindanao,,0,mountain,1996243
+Mount Kasalumayakon,7.5475,125.35667,Philippines,Davao Region,,0,mountain,1996250
+Mount Malapangi,7.55056,125.34,Philippines,Davao Region,,0,mountain,1996251
+Sinangkangan Mountain,6.1708,124.27168,Philippines,Soccsksargen,,0,mountain,1978238
+Pito Peak,6.5425,125.38472,Philippines,Davao Region,,0,peak,1978496
+Mount Simod,7.46556,125.33306,Philippines,Davao Region,,0,mountain,1979273
+Mount Dinalag,7.47861,125.34778,Philippines,Davao Region,,0,mountain,1979275
+Mount Iliyan,7.49694,125.35361,Philippines,Davao Region,,0,mountain,1979277
+Mount Saldab,7.4875,125.36472,Philippines,Davao Region,,0,mountain,1979278
+Mount Kibubay,7.42278,125.36,Philippines,Davao Region,,0,mountain,1979285
+Mount Ebid,7.37222,125.35333,Philippines,Davao Region,,0,mountain,1979289
+Mount Luwit,7.36111,125.34361,Philippines,Davao Region,,0,mountain,1979290
+Mount Agusan,7.35444,125.32389,Philippines,Davao Region,,0,mountain,1979294
+Bagong Silang,7.73139,122.90056,Philippines,Zamboanga Peninsula,,0,mountain,1957488
+Mount Calula,7.67892,122.47379,Philippines,Zamboanga Peninsula,,0,mountain,1957528
+Mount Gasam,6.03667,121.10806,Philippines,Autonomous Region in Muslim Mindanao,,0,mountain,1957859
+Buko Mountain,5.99083,124.60972,Philippines,Soccsksargen,,0,mountain,1958670
+Mount Matalangad,5.875,125.28361,Philippines,Soccsksargen,,0,mountain,1958768
+Mount Busao,5.86833,125.58861,Philippines,Davao Region,,0,mountain,1958797
+Mount Sibulan,5.76389,125.49389,Philippines,Davao Region,,0,mountain,1958815
+Camanayon Mountain,9.79944,124.15583,Philippines,Central Visayas,,0,mountain,1959060
+Sagungan Mountain,9.75667,124.39583,Philippines,Central Visayas,,0,mountain,1959166
+Bataan Peak,14.6755,120.3599,Philippines,Central Luzon,,0,peak,1960892
+Mount Sipanag,11.32631,122.16901,Philippines,Western Visayas,,0,mountain,1686099
+Mount Sio,11.2394,122.3332,Philippines,Western Visayas,,0,mountain,1686128
+Mount Singit,11.05923,122.3765,Philippines,Western Visayas,,0,mountain,1686212
+Mount Singakalsa,16.65368,120.79394,Philippines,Cordillera,,0,mountain,1686223
+Mount Sinalitan,17.53333,121.08333,Philippines,Cordillera,,0,mountain,1686302
+Mount Sinalago,8.78333,125.06667,Philippines,Northern Mindanao,,0,mountain,1686308
+Mount Sinalagas,8.56667,125.11667,Philippines,Northern Mindanao,,0,mountain,1686309
+Mount Simbal,7.81667,124.86667,Philippines,Northern Mindanao,,0,mountain,1686398
+Mount Silid,15.1148,121.08885,Philippines,Central Luzon,,0,mountain,1686486
+Mount Silanganan,14.7042,120.358,Philippines,Central Luzon,,0,mountain,1686536
+Mount Silangan,5.93333,120.98333,Philippines,Autonomous Region in Muslim Mindanao,,0,mountain,1686537
+Sicaba diotay Peak,10.76905,123.2332,Philippines,Western Visayas,0,0,peak,1686694
+Mount Sibankat,5.16891,119.96839,Philippines,Autonomous Region in Muslim Mindanao,,0,mountain,1686811
+Mount Sibala,11.4385,123.0324,Philippines,Western Visayas,,0,mountain,1686833
+Mount Siaob,10.09881,125.19866,Philippines,Eastern Visayas,,0,mountain,1686891
+Sharp Peak,11.18333,125.23333,Philippines,Eastern Visayas,,0,mountain,1686915
+Sharp Peak,10.16667,124.85,Philippines,Eastern Visayas,,0,mountain,1686916
+Sharp Peak,10.06667,119.13333,Philippines,Mimaropa,,0,mountain,1686917
+Sharp Peak,9.1949,122.9685,Philippines,Central Visayas,,0,mountain,1686918
+Sharp Peak,7.48333,124.18333,Philippines,Autonomous Region in Muslim Mindanao,,0,mountain,1686921
+Sharp Peak,7.43611,122.25417,Philippines,Zamboanga Peninsula,,0,mountain,1686922
+Sharp Peak,5.96667,125.51667,Philippines,Davao Region,,0,mountain,1686923
+Sharp Peak,5.81667,125.5,Philippines,Davao Region,,0,mountain,1686924
+Sharp Hill,9.23333,118.28333,Philippines,Mimaropa,,0,mountain,1686925
+Sharp Cone,17.83333,120.51667,Philippines,Ilocos,,0,mountain,1686928
+Mount Selet,17.53333,121.15,Philippines,Cordillera,,0,mountain,1687003
+Mount Sayao,11.55,124.48333,Philippines,Eastern Visayas,,0,mountain,1687066
+Saw Peak,6.05,124.86667,Philippines,Soccsksargen,,0,mountain,1687078
+Mount Sauejon,10.16667,124.96667,Philippines,Eastern Visayas,,0,mountain,1687118
+Mount Satelite,9.63333,125.43333,Philippines,Caraga,,0,mountain,1687130
+Mount Saraug,12.1804,124.9381,Philippines,Eastern Visayas,,0,mountain,1687172
+Mount Sapinitan,11.87738,121.92561,Philippines,Western Visayas,0,0,mountain,1687223
+Mount Santa Rosa,14.75169,120.37443,Philippines,Central Luzon,,0,mountain,1687877
+Mount Santa Maria,7.75194,122.1025,Philippines,Zamboanga Peninsula,,0,mountain,1688009
+Mount Sansanan,10.80815,122.2023,Philippines,Western Visayas,,0,mountain,1688445
+Mount San Nicolas,11.03583,122.9,Philippines,Western Visayas,,0,mountain,1688856
+Mount San Miguel,18.51159,120.96339,Philippines,Cagayan Valley,,0,mountain,1688934
+Mount Sanidas,17.41273,120.92225,Philippines,Cordillera,,0,mountain,1689847
+Mount Sangbauen,10.18333,118.81667,Philippines,Mimaropa,,0,mountain,1689902
+Mount San Andres,13.31667,122.65,Philippines,Calabarzon,,0,mountain,1690421
+Mount Saluyong,7.86667,124.81667,Philippines,Northern Mindanao,,0,mountain,1690743
+Mount Salilid,14.6743,121.3264,Philippines,Calabarzon,,0,mountain,1690892
+Mount Salayot,17.48333,120.63333,Philippines,Ilocos,,0,mountain,1690923
+Mount Sagungan,9.68639,124.33889,Philippines,Central Visayas,,0,mountain,1691063
+Mount Sagang,17.8,120.75,Philippines,Cordillera,,0,mountain,1691171
+Sagada Peak,8.11917,124.43167,Philippines,Autonomous Region in Muslim Mindanao,,0,peak,1691181
