@@ -66,7 +66,7 @@ The data pipeline includes:
 
 ## Visualization
 
-An interactive dashboard is being built to explore Philippine mountains by:
+An interactive dashboard built to explore Philippine mountains by:
 
 * island group
 * region
@@ -75,7 +75,7 @@ An interactive dashboard is being built to explore Philippine mountains by:
 * hiking difficulty/personality match
 * top mountain recommendations
 
-Dashboard link: Coming soon
+[Dashboard link ](https://public.tableau.com/shared/PM2JGQXW4?:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -87,7 +87,7 @@ Dashboard link: Coming soon
 * [x] Enriched priority mountains with elevation/prominence/volcanic status data
 * [x] Finalize missing elevation enrichment
 * [x] Export final CSV and GeoJSON
-* [ ] Publish Tableau dashboard
+* [x] Publish Tableau dashboard
 * [ ] Publish Power BI dashboard
 
 ---
